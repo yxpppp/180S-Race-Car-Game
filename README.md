@@ -25,7 +25,7 @@ About Achive :.
 mostly solved by the folders in the achive like: sound, character and so on.
 
 ******************************************************************************.
-PS:.
+PS:...
 you can learn Unreal engine tech by explore the RC procjet or contribute the projcet or extend your own branch of your own after your have master the UnrealEngine BluePrint(Virtual Scripting) tech and the RC project's achive.
 
-many thanks to you!!!
+many thanks to you!!!  
