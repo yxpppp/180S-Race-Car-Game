@@ -1,5 +1,5 @@
 # RacketCar-Game
-a unreal engine4 based mobile game， only licensed in UnrealEngine .  
+A UnrealEngine4 based mobile game,only licensed dev in UnrealEngine .  
 
 ******************************************************************************  
 1.make sure you are dev under UE4.25 or upper plz.  
@@ -12,7 +12,7 @@ a unreal engine4 based mobile game， only licensed in UnrealEngine .
 
 ******************************************************************************  
 STEPS:  
-******************************************************************************  
+
 1.pick a branch and git it to your local.  
 
 2.intstall UnrealEngine 4.25 or upper in the EpicGamesLauncher (ignore if you are already installed).  
@@ -25,12 +25,12 @@ STEPS:
 
 ******************************************************************************  
 About Achive :  
-******************************************************************************  
+
 mostly solved by the folders in the achive like: sound, character and so on.        
 
 ******************************************************************************  
 PS:...  
-******************************************************************************  
+
 you can learn Unreal engine tech by explore the RC procjet or contribute the projcet or extend your own branch of your own after your have master the UnrealEngine BluePrint(Virtual Scripting) tech and the RC project's achive.  
 
 many thanks to you!!!    
