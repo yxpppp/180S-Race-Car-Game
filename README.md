@@ -1,6 +1,6 @@
 # RacketCar-Game
 ***A UnrealEngine4 based mobile game,only licensed dev in UnrealEngine .***  
-***watch intro : https://youtu.be/i3av8MATlqI ***   
+***watch "180S race car" intro of the market : https://youtu.be/i3av8MATlqI ***   
 
 ******************************************************************************  
 1.make sure you are dev under UE4.25 or upper plz.  
