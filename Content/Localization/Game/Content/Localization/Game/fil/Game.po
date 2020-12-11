@@ -1,0 +1,1429 @@
+﻿# Game Filipino translation.
+# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2019-12-08 22:58\n"
+"PO-Revision-Date: 2019-12-08 22:58\n"
+"Language-Team: \n"
+"Language: fil\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#. Key:	005B4B9044921E8C04B375BD084FADC8
+#. SourceLocation:	/Game/UI/LobbyLevel/Character.Character_C:WidgetTree.TextBlock_307.Text
+#: /Game/UI/LobbyLevel/Character.Character_C:WidgetTree.TextBlock_307.Text
+msgctxt ",005B4B9044921E8C04B375BD084FADC8"
+msgid "姓名："
+msgstr "이름 :"
+
+#. Key:	02E0E32242850587C1A694B51CC97B6C
+#. SourceLocation:	/Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_317.Text
+#: /Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_317.Text
+msgctxt ",02E0E32242850587C1A694B51CC97B6C"
+msgid "效果音量"
+msgstr "SFXVolume"
+
+#. Key:	0371AF344FBEF41A94431ABCF28F797A
+#. SourceLocation:	/Game/UI/GameLevel/01/GameLevelWB_01.GameLevelWB_01_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/GameLevel/01/GameLevelWB_01.GameLevelWB_01_C:WidgetTree.TextBlock_3.Text
+msgctxt ",0371AF344FBEF41A94431ABCF28F797A"
+msgid "AMMO : "
+msgstr ""
+
+#. Key:	03B2865545873A69008BB0B3B02E62C5
+#. SourceLocation:	/Game/UI/GameLevel/01/MoveWoodenUI.MoveWoodenUI_C:WidgetTree.TextBlock_186.Text
+#: /Game/UI/GameLevel/01/MoveWoodenUI.MoveWoodenUI_C:WidgetTree.TextBlock_186.Text
+msgctxt ",03B2865545873A69008BB0B3B02E62C5"
+msgid "D"
+msgstr ""
+
+#. Key:	0485CEF94F84276C66F5079D967857E1
+#. SourceLocation:	/Game/UI/LobbyLevel/LobbyWB.LobbyWB_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/LobbyLevel/LobbyWB.LobbyWB_C:WidgetTree.TextBlock_1.Text
+msgctxt ",0485CEF94F84276C66F5079D967857E1"
+msgid "Esc"
+msgstr "Esc"
+
+#. Key:	05EBB22F4C938F323F5CDEAA6BE5DE01
+#. SourceLocation:	/Game/UI/AllLevel/LoadingScreen.LoadingScreen_C:WidgetTree.tips2.Text
+#: /Game/UI/AllLevel/LoadingScreen.LoadingScreen_C:WidgetTree.tips2.Text
+msgctxt ",05EBB22F4C938F323F5CDEAA6BE5DE01"
+msgid "这是第一季，后续更新其他季"
+msgstr "This is the first season, and there will be more to come"
+
+#. Key:	06CE18C5485E2DB66EF75997F28518BD
+#. SourceLocation:	/Game/Blueprints/LobbyLevel/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC [Script Bytecode]
+#: /Game/Blueprints/LobbyLevel/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC [Script Bytecode]
+msgctxt ",06CE18C5485E2DB66EF75997F28518BD"
+msgid "手柄十字键可以控制界面"
+msgstr "게임 패드 십자 키는 인터페이스를 제어 할 수 있습니다"
+
+#. Key:	0855A85E41CAEB541441C492B85E40F8
+#. SourceLocation:	/Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_151.Text
+#: /Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_151.Text
+msgctxt ",0855A85E41CAEB541441C492B85E40F8"
+msgid "窗口："
+msgstr "창 :"
+
+#. Key:	0869CCCE4D95801056E7D69F8024B8B9
+#. SourceLocation:	/Game/UI/LobbyLevel/Character.Character_C:WidgetTree.skill3power.Text
+#: /Game/UI/LobbyLevel/Character.Character_C:WidgetTree.skill3power.Text
+msgctxt ",0869CCCE4D95801056E7D69F8024B8B9"
+msgid "攻击力:20"
+msgstr "공격력 : 20"
+
+#. Key:	0BF0F31F434C8A1A136A02B295DF3011
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_116.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_116.Text
+msgctxt ",0BF0F31F434C8A1A136A02B295DF3011"
+msgid "武器"
+msgstr "무기"
+
+#. Key:	0CDEA544418663DDB0112BBCF0C57DCA
+#. SourceLocation:	/Game/UI/GameLevel/01/InteractionTreeTips.InteractionTreeTips_C:WidgetTree.TextBlock_70.Text
+#: /Game/UI/GameLevel/01/InteractionTreeTips.InteractionTreeTips_C:WidgetTree.TextBlock_70.Text
+msgctxt ",0CDEA544418663DDB0112BBCF0C57DCA"
+msgid "禁止怪物移动"
+msgstr "몬스터 이동 중지"
+
+#. Key:	0D10BB2849C32A2F8B5389873480254E
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",0D10BB2849C32A2F8B5389873480254E"
+msgid "带漫游的网络游戏创建失败，请重新尝试。可联系Email：w1334106832@sina.com"
+msgstr "The online game with roaming failed to create, 다시 시도하십시오."
+
+#. Key:	0E78B08A40D3EC470A4109B9FD4C0C8D
+#. SourceLocation:	/Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_155.Text
+#: /Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_155.Text
+msgctxt ",0E78B08A40D3EC470A4109B9FD4C0C8D"
+msgid "特效质量："
+msgstr "특수 효과 품질 :"
+
+#. Key:	0E8DEE56466621746217CEA2A88E26E0
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:ExecuteUbergraph_Weapon [Script Bytecode]
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:ExecuteUbergraph_Weapon [Script Bytecode]
+msgctxt ",0E8DEE56466621746217CEA2A88E26E0"
+msgid "获得此枪(200)"
+msgstr "획득 (200)"
+
+#. Key:	119A332447BCC074C6DFCD858D09E9DB
+#. SourceLocation:	/Game/Blueprints/LobbyLevel/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC [Script Bytecode]
+#: /Game/Blueprints/LobbyLevel/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC [Script Bytecode]
+msgctxt ",119A332447BCC074C6DFCD858D09E9DB"
+msgid "  武器点已获得，回大厅使用"
+msgstr "무기 점수를 얻었습니다. 로비 맵에서 사용"
+
+#. Key:	12481AFF46F20BCBA0A0CDADEF3806AF
+#. SourceLocation:	/Game/Enemy/ParagonGrux/Characters/Heroes/Grux/GruxPlayerCharacter.GruxPlayerCharacter_C:ExecuteUbergraph_GruxPlayerCharacter [Script Bytecode]
+#: /Game/Enemy/ParagonGrux/Characters/Heroes/Grux/GruxPlayerCharacter.GruxPlayerCharacter_C:ExecuteUbergraph_GruxPlayerCharacter [Script Bytecode]
+msgctxt ",12481AFF46F20BCBA0A0CDADEF3806AF"
+msgid "恭喜！！击败Grux"
+msgstr "축하합니다! ! 이길 Grux"
+
+#. Key:	13055ECC42DFD9B4059BAABADB889F98
+#. SourceLocation:	/Game/UI/WelcomeLevel/WelcomeLevelWB.WelcomeLevelWB_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/WelcomeLevel/WelcomeLevelWB.WelcomeLevelWB_C:WidgetTree.TextBlock_2.Text
+msgctxt ",13055ECC42DFD9B4059BAABADB889F98"
+msgid "设置"
+msgstr "설정"
+
+#. Key:	13C2B4AB47984DBE3A8122932A02BE9D
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",13C2B4AB47984DBE3A8122932A02BE9D"
+msgid "房间创建失败！"
+msgstr "방을 만들지 못했습니다!"
+
+#. Key:	14C6472B4FE278207FFE69B11FE6D93C
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",14C6472B4FE278207FFE69B11FE6D93C"
+msgid "加载关卡出错，请检查游戏完整性或游戏文件可读取。可联系Email：w1334106832@sina.com"
+msgstr "Loading level error, 게임 무결성을 확인하거나 게임 파일을 읽을 수 있는지 확인하십시오."
+
+#. Key:	158120C04E24E452527946A6AE061F91
+#. SourceLocation:	/Game/UI/LobbyLevel/AchievementWB.AchievementWB_C:WidgetTree.MasterGruntCount.Text
+#: /Game/UI/LobbyLevel/AchievementWB.AchievementWB_C:WidgetTree.MasterGruntCount.Text
+msgctxt ",158120C04E24E452527946A6AE061F91"
+msgid "0"
+msgstr ""
+
+#. Key:	19A041E843177CA1B2A9509235138FBF
+#. SourceLocation:	/Game/UI/GameLevel/01/Level01boss2LifeUI.Level01boss2LifeUI_C:GetText_0 [Script Bytecode]
+#: /Game/UI/GameLevel/01/Level01boss2LifeUI.Level01boss2LifeUI_C:GetText_0 [Script Bytecode]
+msgctxt ",19A041E843177CA1B2A9509235138FBF"
+msgid "剩余时间{text}:{text2}"
+msgstr "남은 시간{text}:{text2}"
+
+#. Key:	1AE36DEC4339A15595392BB89DFECB65
+#. SourceLocation:	/Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_116.Text
+#: /Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_116.Text
+msgctxt ",1AE36DEC4339A15595392BB89DFECB65"
+msgid "设置"
+msgstr "설정"
+
+#. Key:	1BDC1EC14E2D97326D315DABA890DA4C
+#. SourceLocation:	/Game/UI/LobbyLevel/LobbyWB.LobbyWB_C:WidgetTree.TextBlock_169.Text
+#: /Game/UI/LobbyLevel/LobbyWB.LobbyWB_C:WidgetTree.TextBlock_169.Text
+msgctxt ",1BDC1EC14E2D97326D315DABA890DA4C"
+msgid "大厅岛：四处探索"
+msgstr "lobby 섬：어디서나 모험"
+
+#. Key:	1C3C33674D82C757CADECAB1E1B20DED
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerWB.Default__ServerWB_C.MapID0Text
+#: /Game/UI/LobbyLevel/ServerWB.Default__ServerWB_C.MapID0Text
+msgctxt ",1C3C33674D82C757CADECAB1E1B20DED"
+msgid "自由之城"
+msgstr "자유의 도시"
+
+#. Key:	1C74836F40E0D9E3C4937383DA0E08CF
+#. SourceLocation:	/Game/Blueprints/LobbyLevel/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC [Script Bytecode]
+#: /Game/Blueprints/LobbyLevel/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC [Script Bytecode]
+msgctxt ",1C74836F40E0D9E3C4937383DA0E08CF"
+msgid "  技能点已获得，回大厅使用"
+msgstr "로비 맵에서 스킬 포인트를 획득하여 사용했습니다"
+
+#. Key:	1FE26FBE4CB71AEEE07F528E943180A5
+#. SourceLocation:	/Game/UI/GameLevel/01/GameLevelWB_01.GameLevelWB_01_C:WidgetTree.mark.Text
+#: /Game/UI/GameLevel/01/GameLevelWB_01.GameLevelWB_01_C:WidgetTree.mark.Text
+msgctxt ",1FE26FBE4CB71AEEE07F528E943180A5"
+msgid "●"
+msgstr ""
+
+#. Key:	2033DE6546074EB02D45A1BB54F384CD
+#. SourceLocation:	/Game/Blueprints/GameLevel/Level_01/GamePC_01.GamePC_01_C:ExecuteUbergraph_GamePC_01 [Script Bytecode]
+#: /Game/Blueprints/GameLevel/Level_01/GamePC_01.GamePC_01_C:ExecuteUbergraph_GamePC_01 [Script Bytecode]
+msgctxt ",2033DE6546074EB02D45A1BB54F384CD"
+msgid "  武器点已获得，回大厅使用"
+msgstr "무기 점수를 얻었습니다. 로비 맵에서 사용"
+
+#. Key:	21059F0F43EF78479DE6C388FECDF44F
+#. SourceLocation:	/Game/UI/AllLevel/MessageWindowWB.MessageWindowWB_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/AllLevel/MessageWindowWB.MessageWindowWB_C:WidgetTree.TextBlock_2.Text
+msgctxt ",21059F0F43EF78479DE6C388FECDF44F"
+msgid "确定"
+msgstr "결정"
+
+#. Key:	2118E2AA4D64C5070C4026873BEF5AF8
+#. SourceLocation:	/Game/UI/AllLevel/SkillUI.SkillUI_C:WidgetTree.skill03Text.Text
+#: /Game/UI/AllLevel/SkillUI.SkillUI_C:WidgetTree.skill03Text.Text
+msgctxt ",2118E2AA4D64C5070C4026873BEF5AF8"
+msgid "按3(B)"
+msgstr "press3(B)"
+
+#. Key:	21F336454EC56879405EF59E0C440DE1
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",21F336454EC56879405EF59E0C440DE1"
+msgid "客户端漫游到新地图失败，请重新尝试。可联系Email：w1334106832@sina.com"
+msgstr "The client failed to navigate to the new map. 다시 시도하십시오."
+
+#. Key:	2209471D40F7DEF40335D0A45851116F
+#. SourceLocation:	/Game/LevelObjects/Level_01/mession1NPC/mession1NPC.mession1NPC_C:ExecuteUbergraph_mession1NPC [Script Bytecode]
+#: /Game/LevelObjects/Level_01/mession1NPC/mession1NPC.mession1NPC_C:ExecuteUbergraph_mession1NPC [Script Bytecode]
+msgctxt ",2209471D40F7DEF40335D0A45851116F"
+msgid "怪物靠近市民了，击败他周围的怪物！"
+msgstr "괴물은 대중과 가깝습니다. 주위의 몬스터를 이길!"
+
+#. Key:	2334513C408BB496CFD6EA9FD71AFEC2
+#. SourceLocation:	/Game/UI/LobbyLevel/Character.Character_C:WidgetTree.skillPointText.Text
+#: /Game/UI/LobbyLevel/Character.Character_C:WidgetTree.skillPointText.Text
+msgctxt ",2334513C408BB496CFD6EA9FD71AFEC2"
+msgid "0"
+msgstr ""
+
+#. Key:	2428A139450707FB7C762DBA46682F81
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",2428A139450707FB7C762DBA46682F81"
+msgid "已创建相关网络驱动"
+msgstr "관련 네트워크 드라이버가 생성되었습니다"
+
+#. Key:	265685824D4774E344A7F28BEF131D54
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.GunPoint.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.GunPoint.Text
+msgctxt ",265685824D4774E344A7F28BEF131D54"
+msgid "枪材料"
+msgstr "Gun 자료"
+
+#. Key:	267B9F7E4056C2BE2F2C2D82E5E916E8
+#. SourceLocation:	/Game/UI/GameLevel/01/GameLevelWB_01.GameLevelWB_01_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/GameLevel/01/GameLevelWB_01.GameLevelWB_01_C:WidgetTree.TextBlock_1.Text
+msgctxt ",267B9F7E4056C2BE2F2C2D82E5E916E8"
+msgid "Esc"
+msgstr "Esc"
+
+#. Key:	27D502B4479F0B1B730A8B816C30A816
+#. SourceLocation:	/Game/UI/GameLevel/01/Level01boss2LifeUI.Level01boss2LifeUI_C:WidgetTree.name.Text
+#: /Game/UI/GameLevel/01/Level01boss2LifeUI.Level01boss2LifeUI_C:WidgetTree.name.Text
+msgctxt ",27D502B4479F0B1B730A8B816C30A816"
+msgid "魔化女神"
+msgstr "마법에 걸린 여신"
+
+#. Key:	2819FCC34F141F56F11D3D8C8A0544E6
+#. SourceLocation:	/Game/UI/LobbyLevel/LobbyWB.LobbyWB_C:WidgetTree.talkBox.HintText
+#: /Game/UI/LobbyLevel/LobbyWB.LobbyWB_C:WidgetTree.talkBox.HintText
+msgctxt ",2819FCC34F141F56F11D3D8C8A0544E6"
+msgid "press Enter to send"
+msgstr "Enter 키를 눌러 전송"
+
+#. Key:	281E72BB428DFDDEBF58728B96D88B4C
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_19.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_19.Text
+msgctxt ",281E72BB428DFDDEBF58728B96D88B4C"
+msgid "升级攻击(350)"
+msgstr "업그레이드 공격 (350)"
+
+#. Key:	2824D5BC4CD5A336555C76B92E21EC80
+#. SourceLocation:	/Game/UI/AllLevel/EscWB.EscWB_C:WidgetTree.TextBlock_106.Text
+#: /Game/UI/AllLevel/EscWB.EscWB_C:WidgetTree.TextBlock_106.Text
+msgctxt ",2824D5BC4CD5A336555C76B92E21EC80"
+msgid "退出游戏"
+msgstr "게임을 종료"
+
+#. Key:	2918AD144D82163B9B074D99EAD67D54
+#. SourceLocation:	/Game/UI/LobbyLevel/LobbyWB.LobbyWB_C:WidgetTree.TextBlock_170.Text
+#: /Game/UI/LobbyLevel/LobbyWB.LobbyWB_C:WidgetTree.TextBlock_170.Text
+msgctxt ",2918AD144D82163B9B074D99EAD67D54"
+msgid "开发者会时常更新玩法"
+msgstr "개발자는 항상 게임 플레이를 업데이트합니다"
+
+#. Key:	2A3BBD014DE5337A0E4719B46CCFD7ED
+#. SourceLocation:	/Game/Enemy/ParagonBoris/Characters/Heroes/Boris/BorisPlayerCharacter.BorisPlayerCharacter_C:ExecuteUbergraph_BorisPlayerCharacter [Script Bytecode]
+#: /Game/Enemy/ParagonBoris/Characters/Heroes/Boris/BorisPlayerCharacter.BorisPlayerCharacter_C:ExecuteUbergraph_BorisPlayerCharacter [Script Bytecode]
+msgctxt ",2A3BBD014DE5337A0E4719B46CCFD7ED"
+msgid "恭喜！！击败Boris"
+msgstr "축하합니다! ! 이길 Boris"
+
+#. Key:	2D97E2A0446899D30FE4D9A03739BB19
+#. SourceLocation:	/Game/UI/AllLevel/DanceTips.DanceTips_C:WidgetTree.TextBlock_116.Text
+#: /Game/UI/AllLevel/DanceTips.DanceTips_C:WidgetTree.TextBlock_116.Text
+msgctxt ",2D97E2A0446899D30FE4D9A03739BB19"
+msgid "按住“V”或“RB”来跳舞"
+msgstr "춤을 추려면 \"V\"또는 \"RB\"를 길게 누릅니다."
+
+#. Key:	2DDE557F44F88F3AC5E566B69DC9A700
+#. SourceLocation:	/Game/UI/LobbyLevel/Character.Character_C:ExecuteUbergraph_Character [Script Bytecode]
+#: /Game/UI/LobbyLevel/Character.Character_C:ExecuteUbergraph_Character [Script Bytecode]
+msgctxt ",2DDE557F44F88F3AC5E566B69DC9A700"
+msgid "技能点不够"
+msgstr "기술이 충분하지 않습니다"
+
+#. Key:	3050738740BD3F75E337B1BA997DD162
+#. SourceLocation:	/Game/UI/LobbyLevel/LobbyWB.LobbyWB_C:WidgetTree.按住ALT显示鼠标指针.Text
+#: /Game/UI/LobbyLevel/LobbyWB.LobbyWB_C:WidgetTree.按住ALT显示鼠标指针.Text
+msgctxt ",3050738740BD3F75E337B1BA997DD162"
+msgid "按住ALT显示鼠标指针"
+msgstr "마우스 포인터를 표시하려면 Alt 키를 누르고 있습니다"
+
+#. Key:	30D4A0E846A10B7FC127889838C9DA2C
+#. SourceLocation:	/Game/UI/LobbyLevel/Character.Character_C:WidgetTree.TextBlock_783.Text
+#: /Game/UI/LobbyLevel/Character.Character_C:WidgetTree.TextBlock_783.Text
+msgctxt ",30D4A0E846A10B7FC127889838C9DA2C"
+msgid "确定"
+msgstr "결정"
+
+#. Key:	318BDE654FB04203F1F745AF837642C2
+#. SourceLocation:	/Game/UI/GameLevel/01/MoveWoodenUI.MoveWoodenUI_C:WidgetTree.TextBlock_187.Text
+#: /Game/UI/GameLevel/01/MoveWoodenUI.MoveWoodenUI_C:WidgetTree.TextBlock_187.Text
+msgctxt ",318BDE654FB04203F1F745AF837642C2"
+msgid "移动"
+msgstr "모바일"
+
+#. Key:	31EC17FC4DAC2771A95968A3BDB351DB
+#. SourceLocation:	/Game/UI/WelcomeLevel/WelcomeLevelWB.WelcomeLevelWB_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/WelcomeLevel/WelcomeLevelWB.WelcomeLevelWB_C:WidgetTree.TextBlock_0.Text
+msgctxt ",31EC17FC4DAC2771A95968A3BDB351DB"
+msgid "萌盟大冒险"
+msgstr "귀여운 모험"
+
+#. Key:	3226B6704E1C34B57FA956B927090526
+#. SourceLocation:	/Game/Blueprints/GameLevel/Level_02/GamePC_02.Default__GamePC_02_C.ExitGametext
+#: /Game/Blueprints/GameLevel/Level_02/GamePC_02.Default__GamePC_02_C.ExitGametext
+msgctxt ",3226B6704E1C34B57FA956B927090526"
+msgid " 离开了游戏"
+msgstr " 게임을 떠났다"
+
+#. Key:	3278D01D403CC4C57E2895826F764D77
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.TextBlock_6.Text
+#: /Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.TextBlock_6.Text
+msgctxt ",3278D01D403CC4C57E2895826F764D77"
+msgid "返回"
+msgstr "Back"
+
+#. Key:	350ED0D04777405E390A2DAB1932BD28
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",350ED0D04777405E390A2DAB1932BD28"
+msgid "{text}:{number}"
+msgstr ""
+
+#. Key:	351A3BC94E708A2004F656B57061C75E
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.levelName.Text
+#: /Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.levelName.Text
+msgctxt ",351A3BC94E708A2004F656B57061C75E"
+msgid "自由之城"
+msgstr "자유의 도시"
+
+#. Key:	35942EE84D3AD87010F1799817B43C7F
+#. SourceLocation:	/Game/Enemy/ParagonGadget/Characters/Heroes/Gadget/GadgetPlayerCharacter.GadgetPlayerCharacter_C:ExecuteUbergraph_GadgetPlayerCharacter [Script Bytecode]
+#: /Game/Enemy/ParagonGadget/Characters/Heroes/Gadget/GadgetPlayerCharacter.GadgetPlayerCharacter_C:ExecuteUbergraph_GadgetPlayerCharacter [Script Bytecode]
+msgctxt ",35942EE84D3AD87010F1799817B43C7F"
+msgid "恭喜！！击败Gadget"
+msgstr "축하합니다! ! 이길 Gadget"
+
+#. Key:	36B65BD545FDA016FE704DBD8482BD0A
+#. SourceLocation:	/Game/UI/GameLevel/01/GameLevelWB_01.GameLevelWB_01_C:WidgetTree.danjia.Text
+#: /Game/UI/GameLevel/01/GameLevelWB_01.GameLevelWB_01_C:WidgetTree.danjia.Text
+msgctxt ",36B65BD545FDA016FE704DBD8482BD0A"
+msgid "32"
+msgstr ""
+
+#. Key:	37C7A665415A2C8AC7CA858D421E816E
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.TextBlock_11.Text
+#: /Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.TextBlock_11.Text
+msgctxt ",37C7A665415A2C8AC7CA858D421E816E"
+msgid "开始"
+msgstr "스타트"
+
+#. Key:	3A626B8A498C4256F9AAF7BD0A19C75B
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_3.Text
+msgctxt ",3A626B8A498C4256F9AAF7BD0A19C75B"
+msgid "超燃"
+msgstr "오버 버닝"
+
+#. Key:	3DDB64474F567FB0BE3A60B0F0700BDE
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_10.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_10.Text
+msgctxt ",3DDB64474F567FB0BE3A60B0F0700BDE"
+msgid "升级攻击(350)"
+msgstr "업그레이드 공격 (350)"
+
+#. Key:	3DE7800C4FE36523C3D48DA1E688C4E1
+#. SourceLocation:	/Game/UI/LobbyLevel/charactertips.charactertips_C:WidgetTree.TextBlock_79.Text
+#: /Game/UI/LobbyLevel/charactertips.charactertips_C:WidgetTree.TextBlock_79.Text
+msgctxt ",3DE7800C4FE36523C3D48DA1E688C4E1"
+msgid "角色"
+msgstr "역할"
+
+#. Key:	3E80786D48F9C02F0AED3C964410DF9B
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.TextBlock_12.Text
+#: /Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.TextBlock_12.Text
+msgctxt ",3E80786D48F9C02F0AED3C964410DF9B"
+msgid "退出房间"
+msgstr "방을 떠나"
+
+#. Key:	3EF38CDA486D5E798B9CF2B75BE38990
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:ExecuteUbergraph_Weapon [Script Bytecode]
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:ExecuteUbergraph_Weapon [Script Bytecode]
+msgctxt ",3EF38CDA486D5E798B9CF2B75BE38990"
+msgid "材料不足"
+msgstr "재료 부족"
+
+#. Key:	3FDF119C4B42AE43728B06990D365CDF
+#. SourceLocation:	/Game/UI/AllLevel/EscWB.EscWB_C:ExecuteUbergraph_EscWB [Script Bytecode]
+#: /Game/UI/AllLevel/EscWB.EscWB_C:ExecuteUbergraph_EscWB [Script Bytecode]
+msgctxt ",3FDF119C4B42AE43728B06990D365CDF"
+msgid "关闭游戏退出"
+msgstr "게임을 종료"
+
+#. Key:	40DBB0A543D1C4DED3386F8D0868FA6F
+#. SourceLocation:	/Game/UI/LobbyLevel/AchievementWB.AchievementWB_C:WidgetTree.boss1Count.Text
+#: /Game/UI/LobbyLevel/AchievementWB.AchievementWB_C:WidgetTree.boss1Count.Text
+msgctxt ",40DBB0A543D1C4DED3386F8D0868FA6F"
+msgid "0"
+msgstr ""
+
+#. Key:	41B07995408FE1C6C574B795CF162231
+#. SourceLocation:	/Game/UI/GameLevel/01/GameLevelWB_01.GameLevelWB_01_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/GameLevel/01/GameLevelWB_01.GameLevelWB_01_C:WidgetTree.TextBlock_2.Text
+msgctxt ",41B07995408FE1C6C574B795CF162231"
+msgid "HP :"
+msgstr "HP :"
+
+#. Key:	42B1DA394D0563546F5B17A59E1AE01B
+#. SourceLocation:	/Game/Blueprints/GameLevel/Level_01/GamePC_01.GamePC_01_C:ExecuteUbergraph_GamePC_01 [Script Bytecode]
+#: /Game/Blueprints/GameLevel/Level_01/GamePC_01.GamePC_01_C:ExecuteUbergraph_GamePC_01 [Script Bytecode]
+msgctxt ",42B1DA394D0563546F5B17A59E1AE01B"
+msgid "{text1} {text2}"
+msgstr ""
+
+#. Key:	43B1C6004F73511832A229BD26C20C1A
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerWB.ServerWB_C:BindMapName [Script Bytecode]
+#: /Game/UI/LobbyLevel/ServerWB.ServerWB_C:BindMapName [Script Bytecode]
+msgctxt ",43B1C6004F73511832A229BD26C20C1A"
+msgid "map2"
+msgstr ""
+
+#. Key:	4533B78E498E1788FB5FA4ABFE4EE4A4
+#. SourceLocation:	/Game/UI/AllLevel/LoadingScreen.LoadingScreen_C:WidgetTree.tips1.Text
+#: /Game/UI/AllLevel/LoadingScreen.LoadingScreen_C:WidgetTree.tips1.Text
+msgctxt ",4533B78E498E1788FB5FA4ABFE4EE4A4"
+msgid "加入别人房间，也许会断线或卡顿"
+msgstr "다른 사람의 서버에 가입하면 연결이 끊어 지거나 멈출 수 있습니다"
+
+#. Key:	46D4314E4C31390517968885462CC70D
+#. SourceLocation:	/Game/Enemy/ParagonFengMao/Characters/Heroes/FengMao/FengMaoPlayerCharacter.FengMaoPlayerCharacter_C:ExecuteUbergraph_FengMaoPlayerCharacter [Script Bytecode]
+#: /Game/Enemy/ParagonFengMao/Characters/Heroes/FengMao/FengMaoPlayerCharacter.FengMaoPlayerCharacter_C:ExecuteUbergraph_FengMaoPlayerCharacter [Script Bytecode]
+msgctxt ",46D4314E4C31390517968885462CC70D"
+msgid "恭喜！！击败FengMao"
+msgstr "축하합니다! ! 이길 FengMao"
+
+#. Key:	4A2FA65048013BFD3B1877AFB11A2ABD
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",4A2FA65048013BFD3B1877AFB11A2ABD"
+msgid "没有找到房间"
+msgstr "방을 찾을 수 없습니다"
+
+#. Key:	4AD5F71048C0D2D7016238A9BEA8B234
+#. SourceLocation:	/Game/UI/LobbyLevel/LobbyWB.LobbyWB_C:WidgetTree.TextBlock_4.Text
+#: /Game/UI/LobbyLevel/LobbyWB.LobbyWB_C:WidgetTree.TextBlock_4.Text
+msgctxt ",4AD5F71048C0D2D7016238A9BEA8B234"
+msgid "成就"
+msgstr "업적"
+
+#. Key:	4F498C8A4D0E1800D04E17A980426BA6
+#. SourceLocation:	/Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_494.Text
+#: /Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_494.Text
+msgctxt ",4F498C8A4D0E1800D04E17A980426BA6"
+msgid "确定"
+msgstr "결정"
+
+#. Key:	50FFCCA94F372550400FE2ABA285F595
+#. SourceLocation:	/Game/UI/AllLevel/EscWB.EscWB_C:WidgetTree.TextBlock_104.Text
+#: /Game/UI/AllLevel/EscWB.EscWB_C:WidgetTree.TextBlock_104.Text
+msgctxt ",50FFCCA94F372550400FE2ABA285F595"
+msgid "游戏设置"
+msgstr "게임 설정"
+
+#. Key:	5127DE8D4E7891206C0D4DB948F60EDE
+#. SourceLocation:	/Game/Enemy/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter.GRIMexePlayerCharacter_C:ExecuteUbergraph_GRIMexePlayerCharacter [Script Bytecode]
+#: /Game/Enemy/ParagonGRIMexe/Characters/Heroes/GRIM/GRIMexePlayerCharacter.GRIMexePlayerCharacter_C:ExecuteUbergraph_GRIMexePlayerCharacter [Script Bytecode]
+msgctxt ",5127DE8D4E7891206C0D4DB948F60EDE"
+msgid "恭喜！！击败GRIM"
+msgstr "축하합니다! ! 이길 GRIM"
+
+#. Key:	52293112458D08721405A49754BBC298
+#. SourceLocation:	/Game/Blueprints/GameLevel/Level_01/GamePC_01.Default__GamePC_01_C.joinGametext
+#: /Game/Blueprints/GameLevel/Level_01/GamePC_01.Default__GamePC_01_C.joinGametext
+msgctxt ",52293112458D08721405A49754BBC298"
+msgid " 加入了游戏"
+msgstr " 게임에 합류"
+
+#. Key:	5306870745E7708D4E1C1AAF3101DA9C
+#. SourceLocation:	/Game/UI/WelcomeLevel/WelcomeLevelWB.WelcomeLevelWB_C:WidgetTree.NameEditableText.HintText
+#: /Game/UI/WelcomeLevel/WelcomeLevelWB.WelcomeLevelWB_C:WidgetTree.NameEditableText.HintText
+msgctxt ",5306870745E7708D4E1C1AAF3101DA9C"
+msgid "请输入姓名"
+msgstr "이름을 입력하십시오"
+
+#. Key:	530DDA6546391725F8A32E9AD6DE5B29
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.TextBlock_116.Text
+#: /Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.TextBlock_116.Text
+msgctxt ",530DDA6546391725F8A32E9AD6DE5B29"
+msgid "服务器"
+msgstr "서버"
+
+#. Key:	537AD5224C62095F40941EAA2436BFDD
+#. SourceLocation:	/Game/Blueprints/LobbyLevel/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC [Script Bytecode]
+#: /Game/Blueprints/LobbyLevel/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC [Script Bytecode]
+msgctxt ",537AD5224C62095F40941EAA2436BFDD"
+msgid "按住鼠标右键旋转视角"
+msgstr "마우스 오른쪽 버튼을 누르고 있으면보기가 회전합니다"
+
+#. Key:	542A42DF421C55506FC26E8E9311004C
+#. SourceLocation:	/Game/UI/AllLevel/SkillUI.SkillUI_C:WidgetTree.skill02Text.Text
+#: /Game/UI/AllLevel/SkillUI.SkillUI_C:WidgetTree.skill02Text.Text
+msgctxt ",542A42DF421C55506FC26E8E9311004C"
+msgid "按2(Y)"
+msgstr "press2(Y)"
+
+#. Key:	54E9769F4F0CA6AF1DD60C9CE0C9D6CB
+#. SourceLocation:	/Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_315.Text
+#: /Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_315.Text
+msgctxt ",54E9769F4F0CA6AF1DD60C9CE0C9D6CB"
+msgid "音乐音量"
+msgstr "MusicVolume"
+
+#. Key:	55732CFB4A47D503E7EC738A1BD00D41
+#. SourceLocation:	/Game/Blueprints/GameLevel/Level_01/GameGM_01.GameGM_01_C:ExecuteUbergraph_GameGM_01 [Script Bytecode]
+#: /Game/Blueprints/GameLevel/Level_01/GameGM_01.GameGM_01_C:ExecuteUbergraph_GameGM_01 [Script Bytecode]
+msgctxt ",55732CFB4A47D503E7EC738A1BD00D41"
+msgid "现在击败城外机械统领并通过第二道门，加油"
+msgstr "이제 도시 밖에서 기계 사령관을 물리 치고 두 번째 문을 통과하십시오."
+
+#. Key:	56CC6D8345E2F47E458085926F1795CF
+#. SourceLocation:	/Game/UI/AllLevel/LoadingScreen.LoadingScreen_C:WidgetTree.title.Text
+#: /Game/UI/AllLevel/LoadingScreen.LoadingScreen_C:WidgetTree.title.Text
+msgctxt ",56CC6D8345E2F47E458085926F1795CF"
+msgid "第一季：自由城-拯救女神"
+msgstr "시즌 1 : 자유의 도시-구원의 여신"
+
+#. Key:	570745BD404B7C1B5036788F32754E71
+#. SourceLocation:	/Game/UI/LobbyLevel/Character.Character_C:ExecuteUbergraph_Character [Script Bytecode]
+#: /Game/UI/LobbyLevel/Character.Character_C:ExecuteUbergraph_Character [Script Bytecode]
+msgctxt ",570745BD404B7C1B5036788F32754E71"
+msgid "小惠"
+msgstr "귀여워"
+
+#. Key:	5921531F405E7D3E51C4CB93A228CC32
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",5921531F405E7D3E51C4CB93A228CC32"
+msgid "链接游戏出现错误，请重试"
+msgstr "Link game error, 다시 시도하십시오"
+
+#. Key:	5EAF73034FE17FA015BD35842D7EB982
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.TextBlock_5.Text
+#: /Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.TextBlock_5.Text
+msgctxt ",5EAF73034FE17FA015BD35842D7EB982"
+msgid "延迟ms"
+msgstr "지연ms"
+
+#. Key:	62281F384392C013538B5284E56F0A96
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",62281F384392C013538B5284E56F0A96"
+msgid "房间创建成功！"
+msgstr "방이 성공적으로 만들어졌습니다!"
+
+#. Key:	63EB660B49A997EEC0A0FB98C95A9B58
+#. SourceLocation:	/Game/UI/AllLevel/EscWB.EscWB_C:WidgetTree.TextBlock_107.Text
+#: /Game/UI/AllLevel/EscWB.EscWB_C:WidgetTree.TextBlock_107.Text
+msgctxt ",63EB660B49A997EEC0A0FB98C95A9B58"
+msgid "退出软件"
+msgstr "소프트웨어를 종료"
+
+#. Key:	6434911143FB0DA2F1783EB1AB876195
+#. SourceLocation:	/Game/Blueprints/GameLevel/Level_01/GamePC_01.GamePC_01_C:ExecuteUbergraph_GamePC_01 [Script Bytecode]
+#: /Game/Blueprints/GameLevel/Level_01/GamePC_01.GamePC_01_C:ExecuteUbergraph_GamePC_01 [Script Bytecode]
+msgctxt ",6434911143FB0DA2F1783EB1AB876195"
+msgid "  技能点已获得，回大厅使用"
+msgstr "로비 맵에서 스킬 포인트를 획득하여 사용했습니다"
+
+#. Key:	645C0B274D7E1E692F1EBFB655AB11EF
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",645C0B274D7E1E692F1EBFB655AB11EF"
+msgid "退出房间成功！！"
+msgstr "방을 성공적으로 나가십시오!"
+
+#. Key:	65C0AB87453497AA7F117081CDAD844C
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_0.Text
+msgctxt ",65C0AB87453497AA7F117081CDAD844C"
+msgid "力量"
+msgstr "힘"
+
+#. Key:	6680A5004F30CA7EB5AA5E8D01426E52
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",6680A5004F30CA7EB5AA5E8D01426E52"
+msgid "没有关卡错误，请检查游戏完整性或重新下载游戏。可联系Email：w1334106832@sina.com"
+msgstr "There are no level errors, 게임 무결성을 확인하거나 게임을 다시 다운로드하십시오."
+
+#. Key:	67E73C9144EB44018B69F7A45555233C
+#. SourceLocation:	/Game/UI/LobbyLevel/AchievementWB.AchievementWB_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/LobbyLevel/AchievementWB.AchievementWB_C:WidgetTree.TextBlock_0.Text
+msgctxt ",67E73C9144EB44018B69F7A45555233C"
+msgid "大厅岛"
+msgstr "lobby 섬"
+
+#. Key:	69556B0E4661C166C7C4A4930B415B7B
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.00SkinStaus.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.00SkinStaus.Text
+msgctxt ",69556B0E4661C166C7C4A4930B415B7B"
+msgid "获得皮肤(200)"
+msgstr "피부 얻기 (200)"
+
+#. Key:	6A15021A472509D3FA54A89B1A25B15B
+#. SourceLocation:	/Game/UI/LobbyLevel/Character.Character_C:WidgetTree.skill2Power.Text
+#: /Game/UI/LobbyLevel/Character.Character_C:WidgetTree.skill2Power.Text
+msgctxt ",6A15021A472509D3FA54A89B1A25B15B"
+msgid "攻击力:20"
+msgstr "공격력 :20"
+
+#. Key:	6B230951448CC1E1A8B2FD8402BC4779
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",6B230951448CC1E1A8B2FD8402BC4779"
+msgid "NetGuid不匹配错误，请重试其他服务器。或更新游戏"
+msgstr "NetGuid mismatch error, 다른 서버를 사용해보십시오. 아니면 게임을 업데이트"
+
+#. Key:	6C84D9874AA1EB3C401E2CB0D66823EA
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",6C84D9874AA1EB3C401E2CB0D66823EA"
+msgid "加载失败，请重新尝试。可联系Email：w1334106832@sina.com"
+msgstr "로드하지 못했습니다. 다시 시도하십시오."
+
+#. Key:	6CBD54B745C78384902C1C8F09FD9037
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerWB.ServerWB_C:BindMapName [Script Bytecode]
+#: /Game/UI/LobbyLevel/ServerWB.ServerWB_C:BindMapName [Script Bytecode]
+msgctxt ",6CBD54B745C78384902C1C8F09FD9037"
+msgid "自由之城"
+msgstr "자유의 도시"
+
+#. Key:	6F25410747053A0D38B727ABAF51E7E7
+#. SourceLocation:	/Game/Blueprints/GameLevel/Level_01/GameGM_01.GameGM_01_C:ExecuteUbergraph_GameGM_01 [Script Bytecode]
+#: /Game/Blueprints/GameLevel/Level_01/GameGM_01.GameGM_01_C:ExecuteUbergraph_GameGM_01 [Script Bytecode]
+msgctxt ",6F25410747053A0D38B727ABAF51E7E7"
+msgid "3秒后返回大厅"
+msgstr "3 초 후 홀로 돌아 가기"
+
+#. Key:	71D61DDA40E2BF81988D149728A97401
+#. SourceLocation:	/Game/Blueprints/GameLevel/Level_01/GameGM_01.GameGM_01_C:ExecuteUbergraph_GameGM_01 [Script Bytecode]
+#: /Game/Blueprints/GameLevel/Level_01/GameGM_01.GameGM_01_C:ExecuteUbergraph_GameGM_01 [Script Bytecode]
+msgctxt ",71D61DDA40E2BF81988D149728A97401"
+msgid "房主关闭了房间"
+msgstr "The host closed the room"
+
+#. Key:	71EEC0CC45821C615D2DB596B7C967D5
+#. SourceLocation:	/Game/Blueprints/GameLevel/Level_01/GamePC_01.Default__GamePC_01_C.ExitGametext
+#: /Game/Blueprints/GameLevel/Level_01/GamePC_01.Default__GamePC_01_C.ExitGametext
+msgctxt ",71EEC0CC45821C615D2DB596B7C967D5"
+msgid " 离开了游戏"
+msgstr " 게임을 떠났다"
+
+#. Key:	72445BFD4DC3B3A12DAF9B85B566802F
+#. SourceLocation:	/Game/UI/LobbyLevel/Character.Character_C:ExecuteUbergraph_Character [Script Bytecode]
+#: /Game/UI/LobbyLevel/Character.Character_C:ExecuteUbergraph_Character [Script Bytecode]
+msgctxt ",72445BFD4DC3B3A12DAF9B85B566802F"
+msgid "小美"
+msgstr "아름다운"
+
+#. Key:	728E9C9A4CE1FF47C1260C9BE15E79CC
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerItem.ServerItem_C:WidgetTree.ServerName.Text
+#: /Game/UI/LobbyLevel/ServerItem.ServerItem_C:WidgetTree.ServerName.Text
+msgctxt ",728E9C9A4CE1FF47C1260C9BE15E79CC"
+msgid "服务器名"
+msgstr "서버 이름"
+
+#. Key:	73B8ABEF4B21539B78D5B39FE04604EB
+#. SourceLocation:	/Game/Blueprints/LobbyLevel/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM [Script Bytecode]
+#: /Game/Blueprints/LobbyLevel/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM [Script Bytecode]
+msgctxt ",73B8ABEF4B21539B78D5B39FE04604EB"
+msgid "房主关闭了房间！"
+msgstr "The host closed the room!"
+
+#. Key:	755E0FB746B157A280A089947C853B51
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",755E0FB746B157A280A089947C853B51"
+msgid "共找到房间："
+msgstr "발견 된 총 객실 수 :"
+
+#. Key:	7626626C4A80F3B7C1F52E864690C08F
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",7626626C4A80F3B7C1F52E864690C08F"
+msgid "加入房间失败！"
+msgstr "방에 가입하지 못했습니다!"
+
+#. Key:	76C2F9414462B0FEAF9650AD0ED887FB
+#. SourceLocation:	/Game/UI/AllLevel/SkillUI.SkillUI_C:ExecuteUbergraph_SkillUI [Script Bytecode]
+#: /Game/UI/AllLevel/SkillUI.SkillUI_C:ExecuteUbergraph_SkillUI [Script Bytecode]
+msgctxt ",76C2F9414462B0FEAF9650AD0ED887FB"
+msgid "按3"
+msgstr "Press 3"
+
+#. Key:	770218B744CE214DD4F30F906DC4FEC4
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",770218B744CE214DD4F30F906DC4FEC4"
+msgid "与网络驱动链接超时，请重试。你的改变和收获已保存，不必担心！"
+msgstr "Time out with network driver link, 다시 시도하십시오. 변경 사항 및 이익이 저장되었습니다"
+
+#. Key:	79803FD64AC920580E7106A80B111967
+#. SourceLocation:	/Game/UI/LobbyLevel/AchievementWB.AchievementWB_C:WidgetTree.TaskMasterCount.Text
+#: /Game/UI/LobbyLevel/AchievementWB.AchievementWB_C:WidgetTree.TaskMasterCount.Text
+msgctxt ",79803FD64AC920580E7106A80B111967"
+msgid "0"
+msgstr ""
+
+#. Key:	798A11FA4E682893132951BD69097572
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.000Power.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.000Power.Text
+msgctxt ",798A11FA4E682893132951BD69097572"
+msgid "0"
+msgstr ""
+
+#. Key:	7A213A6E48D7EC4974FF2984A6E5FD98
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",7A213A6E48D7EC4974FF2984A6E5FD98"
+msgid "服务器漫游到新地图失败，请重新尝试。可联系Email：w1334106832@sina.com"
+msgstr "Server roaming to new map failed, 다시 시도하십시오."
+
+#. Key:	7CA360B04E2C7CF3B19C8E8C963F39A9
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",7CA360B04E2C7CF3B19C8E8C963F39A9"
+msgid "客户端需要更新，请更新游戏！"
+msgstr "클라이언트를 업데이트해야합니다. 게임을 업데이트하십시오!"
+
+#. Key:	7CBEFA7F48B6A90A5BB2FB8B25B6A742
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",7CBEFA7F48B6A90A5BB2FB8B25B6A742"
+msgid "联网校验码不匹配错误，请重试其他服务器。或更新游戏"
+msgstr "Network checksum mismatch error, 다른 서버를 사용해보십시오. 아니면 게임을 업데이트"
+
+#. Key:	7DE3859A4D22C658B4AE73960A9E4929
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",7DE3859A4D22C658B4AE73960A9E4929"
+msgid "网络漫游前保存失败，请重新尝试。可联系Email：w1334106832@sina.com"
+msgstr "Failed to save before roaming. 다시 시도하십시오."
+
+#. Key:	7EBD19D54A35658024F0BA97975C9625
+#. SourceLocation:	/Game/UI/LobbyLevel/Character.Character_C:WidgetTree.TextBlock_564.Text
+#: /Game/UI/LobbyLevel/Character.Character_C:WidgetTree.TextBlock_564.Text
+msgctxt ",7EBD19D54A35658024F0BA97975C9625"
+msgid "无懈可击"
+msgstr "Watertight"
+
+#. Key:	80FE3AA2409E9B03BF552A95FBA4D340
+#. SourceLocation:	/Game/Enemy/ParagonFey/Characters/Heroes/Fey/FeyPlayerCharacter.FeyPlayerCharacter_C:ExecuteUbergraph_FeyPlayerCharacter [Script Bytecode]
+#: /Game/Enemy/ParagonFey/Characters/Heroes/Fey/FeyPlayerCharacter.FeyPlayerCharacter_C:ExecuteUbergraph_FeyPlayerCharacter [Script Bytecode]
+msgctxt ",80FE3AA2409E9B03BF552A95FBA4D340"
+msgid "恭喜！！击败Fey"
+msgstr "축하합니다! ! 이길 Fey"
+
+#. Key:	80FE575F4FEBDAEBAEE48A8EB099592B
+#. SourceLocation:	/Game/UI/LobbyLevel/Character.Character_C:ExecuteUbergraph_Character [Script Bytecode]
+#: /Game/UI/LobbyLevel/Character.Character_C:ExecuteUbergraph_Character [Script Bytecode]
+msgctxt ",80FE575F4FEBDAEBAEE48A8EB099592B"
+msgid "小杰"
+msgstr "영웅"
+
+#. Key:	8227D2524132458ACB2DF1BC17AC05D5
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:ExecuteUbergraph_Weapon [Script Bytecode]
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:ExecuteUbergraph_Weapon [Script Bytecode]
+msgctxt ",8227D2524132458ACB2DF1BC17AC05D5"
+msgid "材料不足"
+msgstr "재료 부족"
+
+#. Key:	8421FFBF48F21F4E7EE5E5805387D8D5
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",8421FFBF48F21F4E7EE5E5805387D8D5"
+msgid "相关网络驱动创建失败，请重试"
+msgstr "관련 네트워크 드라이버 생성에 실패했습니다. 다시 시도하십시오"
+
+#. Key:	84ED7C0B4C285606A813A18AACE27490
+#. SourceLocation:	/Game/UI/LobbyLevel/AchievementWB.AchievementWB_C:WidgetTree.TextBlock_112.Text
+#: /Game/UI/LobbyLevel/AchievementWB.AchievementWB_C:WidgetTree.TextBlock_112.Text
+msgctxt ",84ED7C0B4C285606A813A18AACE27490"
+msgid "自由城关卡"
+msgstr "Level - 자유의 도시"
+
+#. Key:	8B858D6B442BC2C9FDC02B8E0D2F1239
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",8B858D6B442BC2C9FDC02B8E0D2F1239"
+msgid "游戏包丢失错误，请检查游戏完整性或游戏文件可读取。可联系Email：w1334106832@sina.com"
+msgstr "Game package missing error, 게임 무결성을 확인하거나 게임 파일을 읽을 수 있는지 확인하십시오."
+
+#. Key:	8C54CC2646061AD49BCD08845221BCF9
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:ExecuteUbergraph_Weapon [Script Bytecode]
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:ExecuteUbergraph_Weapon [Script Bytecode]
+msgctxt ",8C54CC2646061AD49BCD08845221BCF9"
+msgid "材料不足"
+msgstr "재료 부족"
+
+#. Key:	8F9379044DC6030C7D9CE986D8CCA120
+#. SourceLocation:	/Game/UI/LobbyLevel/AchievementWB.AchievementWB_C:WidgetTree.CruntlingCount.Text
+#: /Game/UI/LobbyLevel/AchievementWB.AchievementWB_C:WidgetTree.CruntlingCount.Text
+msgctxt ",8F9379044DC6030C7D9CE986D8CCA120"
+msgid "0"
+msgstr ""
+
+#. Key:	90801609448FF676076B0F8895E02970
+#. SourceLocation:	/Game/Blueprints/GameLevel/Level_01/GameGM_01.GameGM_01_C:ExecuteUbergraph_GameGM_01 [Script Bytecode]
+#: /Game/Blueprints/GameLevel/Level_01/GameGM_01.GameGM_01_C:ExecuteUbergraph_GameGM_01 [Script Bytecode]
+msgctxt ",90801609448FF676076B0F8895E02970"
+msgid "时间到！挑战失败。获取更高攻击力后挑战"
+msgstr "시간이 다되었습니다! 도전은 실패했다. 높은 공격력을 얻은 후의 도전"
+
+#. Key:	93A9833F4FFC3F203FA5A4B61530A0DA
+#. SourceLocation:	/Game/UI/WelcomeLevel/WelcomeLevelWB.WelcomeLevelWB_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/WelcomeLevel/WelcomeLevelWB.WelcomeLevelWB_C:WidgetTree.TextBlock_1.Text
+msgctxt ",93A9833F4FFC3F203FA5A4B61530A0DA"
+msgid "开始游戏"
+msgstr "게임 시작"
+
+#. Key:	94CAE1084B3A419B8F3247A7B1C94F55
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",94CAE1084B3A419B8F3247A7B1C94F55"
+msgid "网络驱动NMT——failed，请重试。你的改变和收获已保存，不必担心！"
+msgstr "Network driver NMT - failed, 다시 시도하십시오. 변경 사항 및 이익이 저장되었습니다"
+
+#. Key:	993127F04C2828424148C9ABA44E24C6
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.TextBlock_4.Text
+#: /Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.TextBlock_4.Text
+msgctxt ",993127F04C2828424148C9ABA44E24C6"
+msgid "人数(4)"
+msgstr "인원(4)"
+
+#. Key:	9A1052D744D5FC128AA0C28FFBA6F5B0
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_15.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_15.Text
+msgctxt ",9A1052D744D5FC128AA0C28FFBA6F5B0"
+msgid "使用"
+msgstr "사용"
+
+#. Key:	9A40FC4C4DF15C7951C89C8B1D176705
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",9A40FC4C4DF15C7951C89C8B1D176705"
+msgid "加载URL出错，请检查游戏完整性或重新下载。可联系Email：w1334106832@sina.com"
+msgstr "Error loading URL, 게임 무결성을 확인하거나 다시 다운로드하십시오."
+
+#. Key:	9ADBD6394A7CDCCE40C6E783DE246F6C
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerWB.ServerWB_C:ExecuteUbergraph_ServerWB [Script Bytecode]
+#: /Game/UI/LobbyLevel/ServerWB.ServerWB_C:ExecuteUbergraph_ServerWB [Script Bytecode]
+msgctxt ",9ADBD6394A7CDCCE40C6E783DE246F6C"
+msgid "退出了房间"
+msgstr "방을 떠났다"
+
+#. Key:	A206D7A3438963711D5F988CBC7B361E
+#. SourceLocation:	/Game/Blueprints/GameLevel/Level_01/GameGM_01.GameGM_01_C:ExecuteUbergraph_GameGM_01 [Script Bytecode]
+#: /Game/Blueprints/GameLevel/Level_01/GameGM_01.GameGM_01_C:ExecuteUbergraph_GameGM_01 [Script Bytecode]
+msgctxt ",A206D7A3438963711D5F988CBC7B361E"
+msgid "把市民带到安置点显示“★”,不要让怪物靠近市民"
+msgstr "괴물이 가까이 가지 못하게"
+
+#. Key:	A2A86C5E4E015FF5E4BD399BC44DC005
+#. SourceLocation:	/Game/Enemy/ParagonGreystone/Characters/Heroes/Greystone/GreystonePlayerCharacter.GreystonePlayerCharacter_C:ExecuteUbergraph_GreystonePlayerCharacter [Script Bytecode]
+#: /Game/Enemy/ParagonGreystone/Characters/Heroes/Greystone/GreystonePlayerCharacter.GreystonePlayerCharacter_C:ExecuteUbergraph_GreystonePlayerCharacter [Script Bytecode]
+msgctxt ",A2A86C5E4E015FF5E4BD399BC44DC005"
+msgid "恭喜！！击败Greystone"
+msgstr "축하합니다! ! 이길 Greystone"
+
+#. Key:	A48328D84C237A322FF9D690F2EB26EE
+#. SourceLocation:	/Game/UI/AllLevel/LoadingScreen.LoadingScreen_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/AllLevel/LoadingScreen.LoadingScreen_C:WidgetTree.TextBlock_0.Text
+msgctxt ",A48328D84C237A322FF9D690F2EB26EE"
+msgid "Loading"
+msgstr ""
+
+#. Key:	A4B7CD3047C74E543A71A780C88CD803
+#. SourceLocation:	/Game/UI/GameLevel/01/MoveWoodenUI.MoveWoodenUI_C:WidgetTree.TextBlock_184.Text
+#: /Game/UI/GameLevel/01/MoveWoodenUI.MoveWoodenUI_C:WidgetTree.TextBlock_184.Text
+msgctxt ",A4B7CD3047C74E543A71A780C88CD803"
+msgid "A"
+msgstr ""
+
+#. Key:	A5656EA04CEC4A4B7CED83B61D424D9E
+#. SourceLocation:	/Game/UI/LobbyLevel/AchievementWB.AchievementWB_C:WidgetTree.TextBlock_116.Text
+#: /Game/UI/LobbyLevel/AchievementWB.AchievementWB_C:WidgetTree.TextBlock_116.Text
+msgctxt ",A5656EA04CEC4A4B7CED83B61D424D9E"
+msgid "成就"
+msgstr "업적"
+
+#. Key:	A693DF294B2ABA114375F3B5B65EABAB
+#. SourceLocation:	/Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_153.Text
+#: /Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_153.Text
+msgctxt ",A693DF294B2ABA114375F3B5B65EABAB"
+msgid "阴影质量："
+msgstr "Shadow quality:"
+
+#. Key:	A84E73B945F7B6B09B60E0A755F0F31A
+#. SourceLocation:	/Game/UI/AllLevel/SkillUI.SkillUI_C:ExecuteUbergraph_SkillUI [Script Bytecode]
+#: /Game/UI/AllLevel/SkillUI.SkillUI_C:ExecuteUbergraph_SkillUI [Script Bytecode]
+msgctxt ",A84E73B945F7B6B09B60E0A755F0F31A"
+msgid "按2"
+msgstr "Press 2"
+
+#. Key:	AA8256F54DC384B0780550BCA9A84792
+#. SourceLocation:	/Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_154.Text
+#: /Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_154.Text
+msgctxt ",AA8256F54DC384B0780550BCA9A84792"
+msgid "贴图质量："
+msgstr "Texture quality:"
+
+#. Key:	AB98600A4AC1905EAF6B97BC7558852D
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_14.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_14.Text
+msgctxt ",AB98600A4AC1905EAF6B97BC7558852D"
+msgid "炮火"
+msgstr "불"
+
+#. Key:	ABA7846F4A58B4874E331C992750D039
+#. SourceLocation:	/Game/Blueprints/GameLevel/Level_01/GamePC_01.GamePC_01_C:ExecuteUbergraph_GamePC_01 [Script Bytecode]
+#: /Game/Blueprints/GameLevel/Level_01/GamePC_01.GamePC_01_C:ExecuteUbergraph_GamePC_01 [Script Bytecode]
+msgctxt ",ABA7846F4A58B4874E331C992750D039"
+msgid "{text1} {text2}"
+msgstr ""
+
+#. Key:	AC3673484A6425CFADA1739B79108939
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerWB.ServerWB_C:BindMapName [Script Bytecode]
+#: /Game/UI/LobbyLevel/ServerWB.ServerWB_C:BindMapName [Script Bytecode]
+msgctxt ",AC3673484A6425CFADA1739B79108939"
+msgid "map3"
+msgstr ""
+
+#. Key:	ACB401FF42CB282B3AC009BAE1DBAC86
+#. SourceLocation:	/Game/UI/AllLevel/SkillUI.SkillUI_C:WidgetTree.skill01Text.Text
+#: /Game/UI/AllLevel/SkillUI.SkillUI_C:WidgetTree.skill01Text.Text
+msgctxt ",ACB401FF42CB282B3AC009BAE1DBAC86"
+msgid "按1(X)"
+msgstr "press1(X)"
+
+#. Key:	ACE857C24D1D0A63DB2CE398B0F03583
+#. SourceLocation:	/Game/Enemy/ParagonCountess/Characters/Heroes/Countess/CountessPlayerCharacter.CountessPlayerCharacter_C:ExecuteUbergraph_CountessPlayerCharacter [Script Bytecode]
+#: /Game/Enemy/ParagonCountess/Characters/Heroes/Countess/CountessPlayerCharacter.CountessPlayerCharacter_C:ExecuteUbergraph_CountessPlayerCharacter [Script Bytecode]
+msgctxt ",ACE857C24D1D0A63DB2CE398B0F03583"
+msgid "恭喜！！击败Countess"
+msgstr "축하합니다! ! 이길 Countess"
+
+#. Key:	AEC7A6BD4C448070EC7E508DDAEE69C0
+#. SourceLocation:	/Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.后处理.Text
+#: /Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.后处理.Text
+msgctxt ",AEC7A6BD4C448070EC7E508DDAEE69C0"
+msgid "后处理质量："
+msgstr "후 처리 품질 :"
+
+#. Key:	B11DC5A14B0AF41B815F3E85B9FEE0EE
+#. SourceLocation:	/Game/UI/LobbyLevel/Character.Character_C:WidgetTree.TextBlock_785.Text
+#: /Game/UI/LobbyLevel/Character.Character_C:WidgetTree.TextBlock_785.Text
+msgctxt ",B11DC5A14B0AF41B815F3E85B9FEE0EE"
+msgid "飓风冲击(200)"
+msgstr "Hurricane impact (200)"
+
+#. Key:	B16433A949F70CE5DC3B479E02A12930
+#. SourceLocation:	/Game/UI/WelcomeLevel/WelcomeLevelWB.WelcomeLevelWB_C:WidgetTree.TextBlock_89.Text
+#: /Game/UI/WelcomeLevel/WelcomeLevelWB.WelcomeLevelWB_C:WidgetTree.TextBlock_89.Text
+msgctxt ",B16433A949F70CE5DC3B479E02A12930"
+msgid "language"
+msgstr ""
+
+#. Key:	B382DA514E31C4DE6FBDE2AAE5E17D7F
+#. SourceLocation:	/Game/UI/AllLevel/playerOnlineTips.playerOnlineTips_C:ExecuteUbergraph_playerOnlineTips [Script Bytecode]
+#: /Game/UI/AllLevel/playerOnlineTips.playerOnlineTips_C:ExecuteUbergraph_playerOnlineTips [Script Bytecode]
+msgctxt ",B382DA514E31C4DE6FBDE2AAE5E17D7F"
+msgid "{text1}  {text2}"
+msgstr ""
+
+#. Key:	B38B2F9C43CFC52332F29FA418F4DB8D
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerWB.ServerWB_C:ExecuteUbergraph_ServerWB [Script Bytecode]
+#: /Game/UI/LobbyLevel/ServerWB.ServerWB_C:ExecuteUbergraph_ServerWB [Script Bytecode]
+msgctxt ",B38B2F9C43CFC52332F29FA418F4DB8D"
+msgid "cast失败"
+msgstr ""
+
+#. Key:	B4E9B69443999E1E31C3938F71EAAE09
+#. SourceLocation:	/Game/UI/WelcomeLevel/WelcomeLevelWB.WelcomeLevelWB_C:WidgetTree.NameEditableText.ToolTipText
+#: /Game/UI/WelcomeLevel/WelcomeLevelWB.WelcomeLevelWB_C:WidgetTree.NameEditableText.ToolTipText
+msgctxt ",B4E9B69443999E1E31C3938F71EAAE09"
+msgid "昵称"
+msgstr "닉네임"
+
+#. Key:	B6FF18414C0A5286D360288BB1060FF4
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",B6FF18414C0A5286D360288BB1060FF4"
+msgid "与网络驱动链接丢失，请重试。你的改变和收获已保存，不必担心！"
+msgstr "Time out with network driver link, 다시 시도하십시오. 변경 사항 및 이익이 저장되었습니다"
+
+#. Key:	B8653CB4499BD2E98444FC830754C12D
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",B8653CB4499BD2E98444FC830754C12D"
+msgid "服务器Listen失败，请重试。你的改变和收获已保存，不必担心！"
+msgstr "Server listen failed. 다시 시도하십시오. 변경 사항 및 이익이 저장되었습니다"
+
+#. Key:	B9106BE84DF1D2767A1433BCB5A40069
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_1.Text
+msgctxt ",B9106BE84DF1D2767A1433BCB5A40069"
+msgid "亮光"
+msgstr "빛"
+
+#. Key:	B98712F045B534EF0BA3C18C2FF3A893
+#. SourceLocation:	/Game/Blueprints/GameLevel/Level_01/GameGM_01.GameGM_01_C:ExecuteUbergraph_GameGM_01 [Script Bytecode]
+#: /Game/Blueprints/GameLevel/Level_01/GameGM_01.GameGM_01_C:ExecuteUbergraph_GameGM_01 [Script Bytecode]
+msgctxt ",B98712F045B534EF0BA3C18C2FF3A893"
+msgid "女巫迷惑了歌星，派出了他的手下。现在摧毁并通过第一道门"
+msgstr "마녀는 가수를 바꿨고 그의 부하들을 보냈습니다. 이제 첫 번째 문을 파괴하고 통과하십시오"
+
+#. Key:	BBD4CD284413FBBBF4FC898DE40342E6
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_119.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_119.Text
+msgctxt ",BBD4CD284413FBBBF4FC898DE40342E6"
+msgid "在这里更换武器，使用武器点升级武器"
+msgstr "여기서 무기를 교체하고 재료를 사용하여 무기를 업그레이드하십시오."
+
+#. Key:	BF256D8543F374F3231368A04153C988
+#. SourceLocation:	/Game/Blueprints/LobbyLevel/LobbyPC.Default__LobbyPC_C.joinGameText
+#: /Game/Blueprints/LobbyLevel/LobbyPC.Default__LobbyPC_C.joinGameText
+msgctxt ",BF256D8543F374F3231368A04153C988"
+msgid " 加入了游戏"
+msgstr " 게임에 합류"
+
+#. Key:	C02E55E140A184E82DF9829705D8C94E
+#. SourceLocation:	/Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_156.Text
+#: /Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_156.Text
+msgctxt ",C02E55E140A184E82DF9829705D8C94E"
+msgid "植被质量："
+msgstr "Foliage Quality:"
+
+#. Key:	C2FFB12249D547FEB0406F8E89EF44A9
+#. SourceLocation:	/Game/Enemy/ParagonShinbi/Characters/Heroes/Shinbi/ShinbiPlayerCharacter.ShinbiPlayerCharacter_C:ExecuteUbergraph_ShinbiPlayerCharacter [Script Bytecode]
+#: /Game/Enemy/ParagonShinbi/Characters/Heroes/Shinbi/ShinbiPlayerCharacter.ShinbiPlayerCharacter_C:ExecuteUbergraph_ShinbiPlayerCharacter [Script Bytecode]
+msgctxt ",C2FFB12249D547FEB0406F8E89EF44A9"
+msgid "恭喜通关！！9秒后返回"
+msgstr "축하합니다! ! 9 초 후 반환"
+
+#. Key:	C3715F744B07D3EF1F91DCAB8B077B40
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.TextBlock_7.Text
+#: /Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.TextBlock_7.Text
+msgctxt ",C3715F744B07D3EF1F91DCAB8B077B40"
+msgid "返回"
+msgstr "Back"
+
+#. Key:	C47FBE844C393AD121EB1591A0073988
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_18.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_18.Text
+msgctxt ",C47FBE844C393AD121EB1591A0073988"
+msgid "升级攻击(350)"
+msgstr "업그레이드 공격 (350)"
+
+#. Key:	C4D2B689484F66F0283FDB82AC24A6EA
+#. SourceLocation:	/Game/Blueprints/GameLevel/Level_01/GameGM_01.GameGM_01_C:ExecuteUbergraph_GameGM_01 [Script Bytecode]
+#: /Game/Blueprints/GameLevel/Level_01/GameGM_01.GameGM_01_C:ExecuteUbergraph_GameGM_01 [Script Bytecode]
+msgctxt ",C4D2B689484F66F0283FDB82AC24A6EA"
+msgid "到后方广场击败魔化女神"
+msgstr "뒤 광장에서 여신을 이길"
+
+#. Key:	C854974D479AFD4284CFD1BEA65A0B2C
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_5.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_5.Text
+msgctxt ",C854974D479AFD4284CFD1BEA65A0B2C"
+msgid "攻击力:"
+msgstr "공격력 :"
+
+#. Key:	CBACB3C149BFA6D1D9BB8FB5A5D3FDE2
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerItem.ServerItem_C:WidgetTree.NumberOfPlayers.Text
+#: /Game/UI/LobbyLevel/ServerItem.ServerItem_C:WidgetTree.NumberOfPlayers.Text
+msgctxt ",CBACB3C149BFA6D1D9BB8FB5A5D3FDE2"
+msgid "人数(4)"
+msgstr "인원(4)"
+
+#. Key:	CE45D55D458EE8F636CE7A92B0B16FFB
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",CE45D55D458EE8F636CE7A92B0B16FFB"
+msgid "退出房间失败！！"
+msgstr "방을 나가지 못했습니다!"
+
+#. Key:	D47B3E98426483B30B1CF68C48585B8C
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",D47B3E98426483B30B1CF68C48585B8C"
+msgid "包确实客户端无法下载文件，请检查游戏完整性或游戏文件可读取，或重新尝试。可联系Email：w1334106832@sina.com"
+msgstr "Client cannot download the file, 게임 무결성을 확인하거나 게임 파일을 읽거나 다시 시도하십시오."
+
+#. Key:	D4AB94BA47109BA51B20BFB6F6441FFA
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:ExecuteUbergraph_Weapon [Script Bytecode]
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:ExecuteUbergraph_Weapon [Script Bytecode]
+msgctxt ",D4AB94BA47109BA51B20BFB6F6441FFA"
+msgid "获得皮肤(200)"
+msgstr "피부 얻기 (200)"
+
+#. Key:	D57F2B5046A78F14419598A5DCFCE2AC
+#. SourceLocation:	/Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_149.Text
+#: /Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_149.Text
+msgctxt ",D57F2B5046A78F14419598A5DCFCE2AC"
+msgid "分辨率："
+msgstr "해결 :"
+
+#. Key:	D6C2CF0A46E17DC114CF0684871BD6A4
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.000GunStaus.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.000GunStaus.Text
+msgctxt ",D6C2CF0A46E17DC114CF0684871BD6A4"
+msgid "获得此枪(200)"
+msgstr "획득 (200)"
+
+#. Key:	D80B55C044765C27958AB587E816799F
+#. SourceLocation:	/Game/UI/LobbyLevel/AchievementWB.AchievementWB_C:WidgetTree.ForstGiantCount.Text
+#: /Game/UI/LobbyLevel/AchievementWB.AchievementWB_C:WidgetTree.ForstGiantCount.Text
+msgctxt ",D80B55C044765C27958AB587E816799F"
+msgid "0"
+msgstr ""
+
+#. Key:	D857AEB34276913BF00AE69A8C47FA1D
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_11.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_11.Text
+msgctxt ",D857AEB34276913BF00AE69A8C47FA1D"
+msgid "升级攻击(350)"
+msgstr "업그레이드 공격 (350)"
+
+#. Key:	D92D953A4C572732CEC1DC9BA28C7885
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",D92D953A4C572732CEC1DC9BA28C7885"
+msgid "服务端端需要更新，请更新游戏！"
+msgstr "서버를 업데이트해야합니다. 게임을 업데이트하십시오!"
+
+#. Key:	D9B104C8494A075A9ED285ADC4CAAC90
+#. SourceLocation:	/Game/UI/AllLevel/SkillUI.SkillUI_C:ExecuteUbergraph_SkillUI [Script Bytecode]
+#: /Game/UI/AllLevel/SkillUI.SkillUI_C:ExecuteUbergraph_SkillUI [Script Bytecode]
+msgctxt ",D9B104C8494A075A9ED285ADC4CAAC90"
+msgid "按1"
+msgstr "Press 1"
+
+#. Key:	D9CF1C374EE31ACED05D8F92B0EF00D4
+#. SourceLocation:	/Game/UI/LobbyLevel/AchievementWB.AchievementWB_C:WidgetTree.boss2Count.Text
+#: /Game/UI/LobbyLevel/AchievementWB.AchievementWB_C:WidgetTree.boss2Count.Text
+msgctxt ",D9CF1C374EE31ACED05D8F92B0EF00D4"
+msgid "0"
+msgstr ""
+
+#. Key:	D9D78556447FB871353EEF87987CC90E
+#. SourceLocation:	/Game/UI/LobbyLevel/Character.Character_C:ExecuteUbergraph_Character [Script Bytecode]
+#: /Game/UI/LobbyLevel/Character.Character_C:ExecuteUbergraph_Character [Script Bytecode]
+msgctxt ",D9D78556447FB871353EEF87987CC90E"
+msgid "小明"
+msgstr "똑똑한"
+
+#. Key:	DB92EC1840A7E588B3C645BB7096B8B2
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerItem.ServerItem_C:WidgetTree.TextBlock_6.Text
+#: /Game/UI/LobbyLevel/ServerItem.ServerItem_C:WidgetTree.TextBlock_6.Text
+msgctxt ",DB92EC1840A7E588B3C645BB7096B8B2"
+msgid "加入"
+msgstr "가입"
+
+#. Key:	DBF9AC6343CE709C3A25088EAE3D5B8A
+#. SourceLocation:	/Game/UI/AllLevel/playerOnlineTips.Default__playerOnlineTips_C.OnLine
+#: /Game/UI/AllLevel/playerOnlineTips.Default__playerOnlineTips_C.OnLine
+msgctxt ",DBF9AC6343CE709C3A25088EAE3D5B8A"
+msgid "在线"
+msgstr "온라인"
+
+#. Key:	DCAD72634449360A7774708F70ACB70C
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.服务器名.Text
+#: /Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.服务器名.Text
+msgctxt ",DCAD72634449360A7774708F70ACB70C"
+msgid "服务器名"
+msgstr "서버 이름"
+
+#. Key:	DDF8A43E4BCE2B4971ED7BA36AE5BB1F
+#. SourceLocation:	/Game/UI/AllLevel/EscWB.EscWB_C:ExecuteUbergraph_EscWB [Script Bytecode]
+#: /Game/UI/AllLevel/EscWB.EscWB_C:ExecuteUbergraph_EscWB [Script Bytecode]
+msgctxt ",DDF8A43E4BCE2B4971ED7BA36AE5BB1F"
+msgid "关闭游戏退出"
+msgstr "게임을 종료"
+
+#. Key:	DF11828841BD9C523C7C0D88010AA41F
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",DF11828841BD9C523C7C0D88010AA41F"
+msgid "加入房间成功！"
+msgstr "방에 성공적으로 참여하십시오!"
+
+#. Key:	DF3C0FDB4BD8CFF3CDE5EB8D9AB23143
+#. SourceLocation:	/Game/Enemy/ParagonDekker/Characters/Heroes/Dekker/DekkerPlayerCharacter.DekkerPlayerCharacter_C:ExecuteUbergraph_DekkerPlayerCharacter [Script Bytecode]
+#: /Game/Enemy/ParagonDekker/Characters/Heroes/Dekker/DekkerPlayerCharacter.DekkerPlayerCharacter_C:ExecuteUbergraph_DekkerPlayerCharacter [Script Bytecode]
+msgctxt ",DF3C0FDB4BD8CFF3CDE5EB8D9AB23143"
+msgid "恭喜！！击败Dekker"
+msgstr "축하합니다! ! 이길 Dekker"
+
+#. Key:	DF6D18464E2653770965129E50E8BD77
+#. SourceLocation:	/Game/UI/LobbyLevel/Character.Character_C:ExecuteUbergraph_Character [Script Bytecode]
+#: /Game/UI/LobbyLevel/Character.Character_C:ExecuteUbergraph_Character [Script Bytecode]
+msgctxt ",DF6D18464E2653770965129E50E8BD77"
+msgid "攻击力:"
+msgstr "공격력 :"
+
+#. Key:	DFB42AE3423ECAE1B26792A95D94042C
+#. SourceLocation:	/Game/Enemy/ParagonAurora/Characters/Heroes/Aurora/AuroraPlayerCharacter.AuroraPlayerCharacter_C:ExecuteUbergraph_AuroraPlayerCharacter [Script Bytecode]
+#: /Game/Enemy/ParagonAurora/Characters/Heroes/Aurora/AuroraPlayerCharacter.AuroraPlayerCharacter_C:ExecuteUbergraph_AuroraPlayerCharacter [Script Bytecode]
+msgctxt ",DFB42AE3423ECAE1B26792A95D94042C"
+msgid "恭喜！！击败Aurora"
+msgstr "축하합니다! ! 이길 Aurora"
+
+#. Key:	E0D8A0E24938AE7E1286AF960DA4C3A4
+#. SourceLocation:	/Game/UI/LobbyLevel/Character.Character_C:ExecuteUbergraph_Character [Script Bytecode]
+#: /Game/UI/LobbyLevel/Character.Character_C:ExecuteUbergraph_Character [Script Bytecode]
+msgctxt ",E0D8A0E24938AE7E1286AF960DA4C3A4"
+msgid "攻击力:"
+msgstr "공격력 :"
+
+#. Key:	E128F0004F28CBDC8FC6669D55303109
+#. SourceLocation:	/Game/UI/AllLevel/LoadingScreen.LoadingScreen_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/AllLevel/LoadingScreen.LoadingScreen_C:WidgetTree.TextBlock_1.Text
+msgctxt ",E128F0004F28CBDC8FC6669D55303109"
+msgid "打怪获得的点数回大厅使用"
+msgstr "로비 맵에서 사용할 포인트를 얻기 위해 몬스터를 처치하십시오"
+
+#. Key:	E416095E47B3D8AB8A5401A6AD897160
+#. SourceLocation:	/Game/UI/LobbyLevel/Character.Character_C:WidgetTree.TextBlock_116.Text
+#: /Game/UI/LobbyLevel/Character.Character_C:WidgetTree.TextBlock_116.Text
+msgctxt ",E416095E47B3D8AB8A5401A6AD897160"
+msgid "角色"
+msgstr "캐릭터"
+
+#. Key:	E46B2C72472C32E06AD0DCBCC500EC48
+#. SourceLocation:	/Game/UI/WelcomeLevel/WelcomeLevelWB.WelcomeLevelWB_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/WelcomeLevel/WelcomeLevelWB.WelcomeLevelWB_C:WidgetTree.TextBlock_3.Text
+msgctxt ",E46B2C72472C32E06AD0DCBCC500EC48"
+msgid "退出"
+msgstr "떠나다"
+
+#. Key:	E4E3AB33459AE020F7701288079077B7
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_4.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_4.Text
+msgctxt ",E4E3AB33459AE020F7701288079077B7"
+msgid "升级攻击(350)"
+msgstr "업그레이드 공격 (350)"
+
+#. Key:	E517E4DD4ACF590E750D80BAC2ECE87E
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:ExecuteUbergraph_Weapon [Script Bytecode]
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:ExecuteUbergraph_Weapon [Script Bytecode]
+msgctxt ",E517E4DD4ACF590E750D80BAC2ECE87E"
+msgid "已得此枪 "
+msgstr "획득 한 총"
+
+#. Key:	E5492B8045A9552C6AAE2F92BF6C30A9
+#. SourceLocation:	/Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+#: /Game/Blueprints/AllLevel/CAGameInstance.CAGameInstance_C:ExecuteUbergraph_CAGameInstance [Script Bytecode]
+msgctxt ",E5492B8045A9552C6AAE2F92BF6C30A9"
+msgid "服务器客户端版本不匹配错误，需要都更新到最新版。可联系Email：w1334106832@sina.com"
+msgstr "Server client version mismatch error, 최신 버전으로 업데이트해야합니다."
+
+#. Key:	E64564F143E7EBE39ACE9580762B9323
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerItem.ServerItem_C:WidgetTree.Ping.Text
+#: /Game/UI/LobbyLevel/ServerItem.ServerItem_C:WidgetTree.Ping.Text
+msgctxt ",E64564F143E7EBE39ACE9580762B9323"
+msgid "延迟ms"
+msgstr "지연ms"
+
+#. Key:	E6D4A8A64E9E36A1B062C89D6FE4996C
+#. SourceLocation:	/Game/Blueprints/GameLevel/Level_01/GamePC_01.GamePC_01_C:ExecuteUbergraph_GamePC_01 [Script Bytecode]
+#: /Game/Blueprints/GameLevel/Level_01/GamePC_01.GamePC_01_C:ExecuteUbergraph_GamePC_01 [Script Bytecode]
+msgctxt ",E6D4A8A64E9E36A1B062C89D6FE4996C"
+msgid "游戏手柄“start”按键，显示设置"
+msgstr "게임 패드 \"start\"버튼, 디스플레이 설정"
+
+#. Key:	EB3B8BEC48EACEA97C361D8B2AED6AF3
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:ExecuteUbergraph_Weapon [Script Bytecode]
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:ExecuteUbergraph_Weapon [Script Bytecode]
+msgctxt ",EB3B8BEC48EACEA97C361D8B2AED6AF3"
+msgid "已获得皮肤"
+msgstr "피부를 얻었습니다"
+
+#. Key:	EB3C4E1642BE818B2346029602B518F6
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.TextBlock_0.Text
+#: /Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.TextBlock_0.Text
+msgctxt ",EB3C4E1642BE818B2346029602B518F6"
+msgid "建立房间"
+msgstr "방을 구축"
+
+#. Key:	EC0154A141AF819241084D92D4FC69D8
+#. SourceLocation:	/Game/Blueprints/GameLevel/Level_02/GamePC_02.Default__GamePC_02_C.joinGametext
+#: /Game/Blueprints/GameLevel/Level_02/GamePC_02.Default__GamePC_02_C.joinGametext
+msgctxt ",EC0154A141AF819241084D92D4FC69D8"
+msgid " 加入了游戏"
+msgstr " 게임에 합류"
+
+#. Key:	F0EB45EB4CB3B886051B02A2982836FA
+#. SourceLocation:	/Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.TextBlock_2.Text
+#: /Game/UI/LobbyLevel/ServerWB.ServerWB_C:WidgetTree.TextBlock_2.Text
+msgctxt ",F0EB45EB4CB3B886051B02A2982836FA"
+msgid "加入房间"
+msgstr "방에 가입"
+
+#. Key:	F213EE2A4845CC0C46213E95FBF694E1
+#. SourceLocation:	/Game/UI/GameLevel/01/Level01boss1LifeUI.Level01boss1LifeUI_C:WidgetTree.name.Text
+#: /Game/UI/GameLevel/01/Level01boss1LifeUI.Level01boss1LifeUI_C:WidgetTree.name.Text
+msgctxt ",F213EE2A4845CC0C46213E95FBF694E1"
+msgid "机械统领"
+msgstr "기계적 명령"
+
+#. Key:	F2A7BE7249D657D3DEDA44A9472DA27A
+#. SourceLocation:	/Game/UI/LobbyLevel/weapontips.weapontips_C:WidgetTree.TextBlock_79.Text
+#: /Game/UI/LobbyLevel/weapontips.weapontips_C:WidgetTree.TextBlock_79.Text
+msgctxt ",F2A7BE7249D657D3DEDA44A9472DA27A"
+msgid "武器"
+msgstr "무기"
+
+#. Key:	F5F64521476273F45000B5A17F7B919A
+#. SourceLocation:	/Game/UI/LobbyLevel/Character.Character_C:WidgetTree.TextBlock_192.Text
+#: /Game/UI/LobbyLevel/Character.Character_C:WidgetTree.TextBlock_192.Text
+msgctxt ",F5F64521476273F45000B5A17F7B919A"
+msgid "在这里更换角色，使用技能点升级技能"
+msgstr "여기에서 역할을 변경하고 스킬 포인트를 사용하여 스킬을 업그레이드하십시오."
+
+#. Key:	F983D233456064395E6FF596B35902EF
+#. SourceLocation:	/Game/Blueprints/LobbyLevel/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC [Script Bytecode]
+#: /Game/Blueprints/LobbyLevel/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC [Script Bytecode]
+msgctxt ",F983D233456064395E6FF596B35902EF"
+msgid "{text1} {text2}"
+msgstr ""
+
+#. Key:	FAA77A2C4D94B4A75BBA469E143208FA
+#. SourceLocation:	/Game/UI/GameLevel/01/GameLevelWB_01.GameLevelWB_01_C:WidgetTree.messionText.Text
+#: /Game/UI/GameLevel/01/GameLevelWB_01.GameLevelWB_01_C:WidgetTree.messionText.Text
+msgctxt ",FAA77A2C4D94B4A75BBA469E143208FA"
+msgid "任务"
+msgstr "태스크"
+
+#. Key:	FAD8D6244B89CA51E9168CBD1A78A96B
+#. SourceLocation:	/Game/UI/AllLevel/SmallTipsUI.SmallTipsUI_C:WidgetTree.mark.Text
+#: /Game/UI/AllLevel/SmallTipsUI.SmallTipsUI_C:WidgetTree.mark.Text
+msgctxt ",FAD8D6244B89CA51E9168CBD1A78A96B"
+msgid "●"
+msgstr ""
+
+#. Key:	FBF9846E47D8513B3D9752872E35A311
+#. SourceLocation:	/Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_157.Text
+#: /Game/UI/AllLevel/SettingWB.SettingWB_C:WidgetTree.TextBlock_157.Text
+msgctxt ",FBF9846E47D8513B3D9752872E35A311"
+msgid "雾质量："
+msgstr "안개 품질 :"
+
+#. Key:	FC3F49D6498B8103BF40BC85463885C6
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_147.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_147.Text
+msgctxt ",FC3F49D6498B8103BF40BC85463885C6"
+msgid ":材料"
+msgstr ": 소재"
+
+#. Key:	FE9ADBD34EE2F17D17254C9E07FB84CA
+#. SourceLocation:	/Game/UI/LobbyLevel/LobbyWB.LobbyWB_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/LobbyLevel/LobbyWB.LobbyWB_C:WidgetTree.TextBlock_3.Text
+msgctxt ",FE9ADBD34EE2F17D17254C9E07FB84CA"
+msgid "联机&副本"
+msgstr " 온라인 & 모험"
+
+#. Key:	FFA744094C23C78B4B2F568CE5CD8EE8
+#. SourceLocation:	/Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_7.Text
+#: /Game/UI/LobbyLevel/Weapon.Weapon_C:WidgetTree.TextBlock_7.Text
+msgctxt ",FFA744094C23C78B4B2F568CE5CD8EE8"
+msgid "火力"
+msgstr "화력"
+
+#. Key:	FFBD4DA647BC250F2F79CF85E9907F2B
+#. SourceLocation:	/Game/Blueprints/LobbyLevel/LobbyPC.Default__LobbyPC_C.ExitGameText
+#: /Game/Blueprints/LobbyLevel/LobbyPC.Default__LobbyPC_C.ExitGameText
+msgctxt ",FFBD4DA647BC250F2F79CF85E9907F2B"
+msgid " 离开了游戏"
+msgstr " 게임을 떠났다"
+
+#. Key:	FFEB0D974EE2D13FA0BE4CB293EE3512
+#. SourceLocation:	/Game/UI/LobbyLevel/Character.Character_C:WidgetTree.TextBlock_786.Text
+#: /Game/UI/LobbyLevel/Character.Character_C:WidgetTree.TextBlock_786.Text
+msgctxt ",FFEB0D974EE2D13FA0BE4CB293EE3512"
+msgid "强力释放(200)"
+msgstr "Strong release (200)"
+
