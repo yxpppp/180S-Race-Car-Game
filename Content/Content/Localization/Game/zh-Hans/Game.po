@@ -1,0 +1,414 @@
+﻿# Game Chinese (Simplified) translation.
+# Copyright 1998-2019 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: Game\n"
+"POT-Creation-Date: 2020-08-30 10:02\n"
+"PO-Revision-Date: 2020-08-30 10:02\n"
+"Language-Team: \n"
+"Language: zh-Hans\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	009018B64FC253581CF201A93DF29DB8
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(14 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(14 - Value).DisplayNameMap
+msgctxt ",009018B64FC253581CF201A93DF29DB8"
+msgid "Style Snow"
+msgstr "Style Snow"
+
+#. Key:	0249A0E24FE0A005BF5F1B82F8F4E399
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(9 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(9 - Value).DisplayNameMap
+msgctxt ",0249A0E24FE0A005BF5F1B82F8F4E399"
+msgid "Style Cold"
+msgstr "Style Cold"
+
+#. Key:	07FA82044A9528C6424B7D9B4496B405
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(20 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(20 - Value).DisplayNameMap
+msgctxt ",07FA82044A9528C6424B7D9B4496B405"
+msgid "Style UDK Morning Sky"
+msgstr "Style UDK Morning Sky"
+
+#. Key:	0908BFE7445DEF3BC81ABBA615901517
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(8 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(8 - Value).DisplayNameMap
+msgctxt ",0908BFE7445DEF3BC81ABBA615901517"
+msgid "SunSet Smoothly"
+msgstr "SunSet Smoothly"
+
+#. Key:	0FFDABEB4EC40B815E2341A87214BF39
+#. SourceLocation:	/Game/OtherObjects/DriveableCar_basic/Blueprints/ThirdPersonCharacter.Default__ThirdPersonCharacter_C.pressE
+#: /Game/OtherObjects/DriveableCar_basic/Blueprints/ThirdPersonCharacter.Default__ThirdPersonCharacter_C.pressE
+msgctxt ",0FFDABEB4EC40B815E2341A87214BF39"
+msgid "按E进入"
+msgstr "按E进入"
+
+#. Key:	1680FB49428510B640767FBC29D9E5A9
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(17 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(17 - Value).DisplayNameMap
+msgctxt ",1680FB49428510B640767FBC29D9E5A9"
+msgid "Style UDK Noon Sky"
+msgstr "Style UDK Noon Sky"
+
+#. Key:	1F1277444E15D09FF2434C9043C40659
+#. SourceLocation:	/Game/OtherObjects/DriveableCar_basic/Blueprints/ThirdPersonCharacter.Default__ThirdPersonCharacter_C.pressX
+#: /Game/OtherObjects/DriveableCar_basic/Blueprints/ThirdPersonCharacter.Default__ThirdPersonCharacter_C.pressX
+msgctxt ",1F1277444E15D09FF2434C9043C40659"
+msgid "按X进入"
+msgstr "按X进入"
+
+#. Key:	22203A3B4072CFE3C2F6E3A292E2B789
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(6 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(6 - Value).DisplayNameMap
+msgctxt ",22203A3B4072CFE3C2F6E3A292E2B789"
+msgid "Midnight Storm"
+msgstr "Midnight Storm"
+
+#. Key:	262768E542DA113C7DDDF2B2CF1100B7
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(19 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(19 - Value).DisplayNameMap
+msgctxt ",262768E542DA113C7DDDF2B2CF1100B7"
+msgid "Style UDK Afternoon Sky"
+msgstr "Style UDK Afternoon Sky"
+
+#. Key:	2994093249C7818356F06F92E4AF9176
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(18 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(18 - Value).DisplayNameMap
+msgctxt ",2994093249C7818356F06F92E4AF9176"
+msgid "Style UDK Night Sky"
+msgstr "Style UDK Night Sky"
+
+#. Key:	29BD58F44940479856DC83A920C4E1AB
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(16 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(16 - Value).DisplayNameMap
+msgctxt ",29BD58F44940479856DC83A920C4E1AB"
+msgid "Style UE4 Default Sky"
+msgstr "Style UE4 Default Sky"
+
+#. Key:	2D53F2E545C9F2156F0FF98BB8064092
+#. SourceLocation:	/Game/UI/InGame.InGame_C:WidgetTree.Gear_2.Text
+#: /Game/UI/InGame.InGame_C:WidgetTree.Gear_2.Text
+msgctxt ",2D53F2E545C9F2156F0FF98BB8064092"
+msgid "s"
+msgstr "s"
+
+#. Key:	2F0000CB425117FAF2F31FB61072A8F1
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(22 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(22 - Value).DisplayNameMap
+msgctxt ",2F0000CB425117FAF2F31FB61072A8F1"
+msgid "Style Forest"
+msgstr "Style Forest"
+
+#. Key:	2F62F3714D29FEC2EABCCAA0292AF314
+#. SourceLocation:	/Game/UI/InGame.InGame_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/InGame.InGame_C:WidgetTree.TextBlock_3.Text
+msgctxt ",2F62F3714D29FEC2EABCCAA0292AF314"
+msgid ":引擎RPM"
+msgstr ":引擎RPM"
+
+#. Key:	3C5506014FB4049AC075978DC924F232
+#. SourceLocation:	/Game/UI/InGame.InGame_C:WidgetTree.s.Text
+#: /Game/UI/InGame.InGame_C:WidgetTree.s.Text
+msgctxt ",3C5506014FB4049AC075978DC924F232"
+msgid "180"
+msgstr "180"
+
+#. Key:	3E742DB24B1A001D373BF283428BB879
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",3E742DB24B1A001D373BF283428BB879"
+msgid "SunSet ( From Time Of Day : 18 )"
+msgstr "SunSet ( From Time Of Day : 18 )"
+
+#. Key:	3F53FB724B84EC55E5CB9398EB69FE69
+#. SourceLocation:	/Game/OtherObjects/DriveableCar_basic/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:TextRender_GEN_VARIABLE.Text
+#: /Game/OtherObjects/DriveableCar_basic/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:TextRender_GEN_VARIABLE.Text
+msgctxt ",3F53FB724B84EC55E5CB9398EB69FE69"
+msgid "按E进入"
+msgstr "按E进入"
+
+#. Key:	3FCF6917400FBD599D6D99AEBAD1050F
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(11 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(11 - Value).DisplayNameMap
+msgctxt ",3FCF6917400FBD599D6D99AEBAD1050F"
+msgid "Noon Clear Sky"
+msgstr "Noon Clear Sky"
+
+#. Key:	43234A0B4A23383CDFEFD581F36161F7
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(13 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(13 - Value).DisplayNameMap
+msgctxt ",43234A0B4A23383CDFEFD581F36161F7"
+msgid "Midnight Blood Moon"
+msgstr "Midnight Blood Moon"
+
+#. Key:	446D77CD4EE96345D0529CACA70763F2
+#. SourceLocation:	/Game/UI/InGame.InGame_C:WidgetTree.Distance.Text
+#: /Game/UI/InGame.InGame_C:WidgetTree.Distance.Text
+msgctxt ",446D77CD4EE96345D0529CACA70763F2"
+msgid "1"
+msgstr "1"
+
+#. Key:	4893FC0746E1DC81F61167BB9D16BC4C
+#. SourceLocation:	/Game/UI/InGame.InGame_C:WidgetTree.Gear_1.Text
+#: /Game/UI/InGame.InGame_C:WidgetTree.Gear_1.Text
+msgctxt ",4893FC0746E1DC81F61167BB9D16BC4C"
+msgid "剩余时间:"
+msgstr "剩余时间:"
+
+#. Key:	4AA439404ED429EFDA25299A0B93160B
+#. SourceLocation:	/Game/UI/InGame.InGame_C:WidgetTree.TextBlock.Text
+#: /Game/UI/InGame.InGame_C:WidgetTree.TextBlock.Text
+msgctxt ",4AA439404ED429EFDA25299A0B93160B"
+msgid ":速度"
+msgstr ":速度"
+
+#. Key:	557FE8C44C93F6670BD6B2A1EDCB717C
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",557FE8C44C93F6670BD6B2A1EDCB717C"
+msgid "Midnight Stars "
+msgstr "Midnight Stars "
+
+#. Key:	58B3802F4ADB95437749F08E31BFE35F
+#. SourceLocation:	/Game/UI/StartGame.StartGame_C:WidgetTree.TextBlock.Text
+#: /Game/UI/StartGame.StartGame_C:WidgetTree.TextBlock.Text
+msgctxt ",58B3802F4ADB95437749F08E31BFE35F"
+msgid "购买"
+msgstr "购买"
+
+#. Key:	59418E854CE2D1953B1EB1B5B9733E4B
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",59418E854CE2D1953B1EB1B5B9733E4B"
+msgid "Custom Mode ( From Time Of Day )"
+msgstr "Custom Mode ( From Time Of Day )"
+
+#. Key:	5CBDAB4A4F72A2BB15138F9AEC771415
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.Enum_GoodSky_MeshType.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.Enum_GoodSky_MeshType.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",5CBDAB4A4F72A2BB15138F9AEC771415"
+msgid "Sphere"
+msgstr "Sphere"
+
+#. Key:	5D6BB73E4593BD54F7B50DB0F71B5192
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",5D6BB73E4593BD54F7B50DB0F71B5192"
+msgid "Moon"
+msgstr "Moon"
+
+#. Key:	620C7EDB422ED85DBC47DE92B28E29FC
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",620C7EDB422ED85DBC47DE92B28E29FC"
+msgid "Slight"
+msgstr "Slight"
+
+#. Key:	730810A240D757B1CFDAE19979CD2B8D
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(21 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(21 - Value).DisplayNameMap
+msgctxt ",730810A240D757B1CFDAE19979CD2B8D"
+msgid "Style Desert"
+msgstr "Style Desert"
+
+#. Key:	745794434E46E20EDA4BE98931A4651C
+#. SourceLocation:	/Game/UI/InGame.InGame_C:WidgetTree.TextBlock_178.Text
+#: /Game/UI/InGame.InGame_C:WidgetTree.TextBlock_178.Text
+msgctxt ",745794434E46E20EDA4BE98931A4651C"
+msgid ":档位"
+msgstr ":档位"
+
+#. Key:	776144E4450390CE9DBD2484621A0C21
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",776144E4450390CE9DBD2484621A0C21"
+msgid "Midnight ( From Time Of Day : 0 )"
+msgstr "Midnight ( From Time Of Day : 0 )"
+
+#. Key:	7C770FC54277B5A08827D19E0EC38BA1
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.Enum_GoodSky_MeshType.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_MeshType.Enum_GoodSky_MeshType.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",7C770FC54277B5A08827D19E0EC38BA1"
+msgid "Hemisphere"
+msgstr "Hemisphere"
+
+#. Key:	7D12D3E14DD8297C0F3663AC4E8F339C
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",7D12D3E14DD8297C0F3663AC4E8F339C"
+msgid "Storm"
+msgstr "Storm"
+
+#. Key:	7E824CC04E9DF5390884088B6BBCA4F9
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",7E824CC04E9DF5390884088B6BBCA4F9"
+msgid "Style Clouds Stratus"
+msgstr "Style Clouds Stratus"
+
+#. Key:	840166C04B4AC8DC60A72282983CE128
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",840166C04B4AC8DC60A72282983CE128"
+msgid "Noon ( From Time Of Day : 12 )"
+msgstr "Noon ( From Time Of Day : 12 )"
+
+#. Key:	874C7D23477541D68F158880C07F3CAE
+#. SourceLocation:	/Game/UI/StartGame.StartGame_C:WidgetTree.TextBlock_1.Text
+#: /Game/UI/StartGame.StartGame_C:WidgetTree.TextBlock_1.Text
+msgctxt ",874C7D23477541D68F158880C07F3CAE"
+msgid "最远:"
+msgstr "最远:"
+
+#. Key:	8A625E5943ADE40E3DF8FA89D9478289
+#. SourceLocation:	/Game/UI/InGame.InGame_C:WidgetTree.CDTime.Text
+#: /Game/UI/InGame.InGame_C:WidgetTree.CDTime.Text
+msgctxt ",8A625E5943ADE40E3DF8FA89D9478289"
+msgid "0"
+msgstr "0"
+
+#. Key:	9AE905A5414DC269E120A090858F352C
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(7 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(7 - Value).DisplayNameMap
+msgctxt ",9AE905A5414DC269E120A090858F352C"
+msgid "Midnight Moon"
+msgstr "Midnight Moon"
+
+#. Key:	9EB3571141A4EB92521A79BFC2B5CD37
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",9EB3571141A4EB92521A79BFC2B5CD37"
+msgid "Super Heavy"
+msgstr "Super Heavy"
+
+#. Key:	A1A7263E4112E6F319C9D4B1698CFA71
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",A1A7263E4112E6F319C9D4B1698CFA71"
+msgid "Style Clouds Cumulus B"
+msgstr "Style Clouds Cumulus B"
+
+#. Key:	ABBFE088476E5B859F1F0080CC976343
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",ABBFE088476E5B859F1F0080CC976343"
+msgid "SunSet In Burn"
+msgstr "SunSet In Burn"
+
+#. Key:	AE11F4E64291EDAA21326F8EB157888B
+#. SourceLocation:	/Game/UI/StartGame.StartGame_C:WidgetTree.TextBlock_3.Text
+#: /Game/UI/StartGame.StartGame_C:WidgetTree.TextBlock_3.Text
+msgctxt ",AE11F4E64291EDAA21326F8EB157888B"
+msgid "引擎最高RPM:"
+msgstr "引擎最高RPM:"
+
+#. Key:	B2071A4248208863D38126B005399BB5
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C:TextRender_GEN_VARIABLE.Text
+#: /Game/OtherObjects/GoodSky/Blueprint/BP_GoodSky.BP_GoodSky_C:TextRender_GEN_VARIABLE.Text
+msgctxt ",B2071A4248208863D38126B005399BB5"
+msgid "     Sun Rise In The East"
+msgstr "     Sun Rise In The East"
+
+#. Key:	B451FE904A6B82D8148E469CB68E3849
+#. SourceLocation:	/Game/OtherObjects/DriveableCar_basic/Blueprints/VRCharacter.VRCharacter_C:TextRender_GEN_VARIABLE.Text
+#: /Game/OtherObjects/DriveableCar_basic/Blueprints/VRCharacter.VRCharacter_C:TextRender_GEN_VARIABLE.Text
+msgctxt ",B451FE904A6B82D8148E469CB68E3849"
+msgid "Press \"A\"\r\nto get inside"
+msgstr "Press \"A\"\r\nto get inside"
+
+#. Key:	B682162444B63ACC95565DA904BB0CBB
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(2 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(2 - Value).DisplayNameMap
+msgctxt ",B682162444B63ACC95565DA904BB0CBB"
+msgid "Style Clouds Cirriform"
+msgstr "Style Clouds Cirriform"
+
+#. Key:	B748CA3D4F63342AA79A63988A883087
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(5 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(5 - Value).DisplayNameMap
+msgctxt ",B748CA3D4F63342AA79A63988A883087"
+msgid "Clear"
+msgstr "Clear"
+
+#. Key:	BA14B30F4BA70E68D2378DB904091966
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(3 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(3 - Value).DisplayNameMap
+msgctxt ",BA14B30F4BA70E68D2378DB904091966"
+msgid "Sun / Stars ( From Custom Mode / Time of Day  )"
+msgstr "Sun / Stars ( From Custom Mode / Time of Day  )"
+
+#. Key:	CAD0764E421E4668CDA3C0AB83D4FF79
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",CAD0764E421E4668CDA3C0AB83D4FF79"
+msgid "None"
+msgstr "None"
+
+#. Key:	CAF4D2F2401A719587EAB392D18E37AC
+#. SourceLocation:	/Game/UI/StartGame.StartGame_C:WidgetTree.TextBlock_178.Text
+#: /Game/UI/StartGame.StartGame_C:WidgetTree.TextBlock_178.Text
+msgctxt ",CAF4D2F2401A719587EAB392D18E37AC"
+msgid "名称:"
+msgstr "名称:"
+
+#. Key:	DC6E1E5241A16D66EF9EB5853A93BAC0
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(10 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(10 - Value).DisplayNameMap
+msgctxt ",DC6E1E5241A16D66EF9EB5853A93BAC0"
+msgid "Style DarkSouls"
+msgstr "Style DarkSouls"
+
+#. Key:	E2E6F61F4E21E4ABDD5244B05A592CF7
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",E2E6F61F4E21E4ABDD5244B05A592CF7"
+msgid "Super Slight"
+msgstr "Super Slight"
+
+#. Key:	E485B53C497959D834C7088A70034595
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",E485B53C497959D834C7088A70034595"
+msgid "Default"
+msgstr "Default"
+
+#. Key:	E49FD754435D4647E8C809A6B7ABB6E8
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(0 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Style_Clouds.Enum_GoodSky_Style_Clouds.DisplayNameMap(0 - Value).DisplayNameMap
+msgctxt ",E49FD754435D4647E8C809A6B7ABB6E8"
+msgid "Style Clouds Cumulus A"
+msgstr "Style Clouds Cumulus A"
+
+#. Key:	E8BEB9F34FACA60564E76EB7B010D89E
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(12 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(12 - Value).DisplayNameMap
+msgctxt ",E8BEB9F34FACA60564E76EB7B010D89E"
+msgid "Style Death"
+msgstr "Style Death"
+
+#. Key:	EB8BD2384609F7D6B46387810489F57B
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(4 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Effects.Enum_GoodSky_Effects.DisplayNameMap(4 - Value).DisplayNameMap
+msgctxt ",EB8BD2384609F7D6B46387810489F57B"
+msgid "Sun / Stars + Moon ( From Custom Mode / Time of Day  ) "
+msgstr "Sun / Stars + Moon ( From Custom Mode / Time of Day  ) "
+
+#. Key:	F6F8CC434FB81ABF49E0B2BBD34F8B00
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(1 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Clouds_Coverage.Enum_GoodSky_Clouds_Coverage.DisplayNameMap(1 - Value).DisplayNameMap
+msgctxt ",F6F8CC434FB81ABF49E0B2BBD34F8B00"
+msgid "Middle"
+msgstr "Middle"
+
+#. Key:	FB4CCABE410724A50A2EC29831EA8CC5
+#. SourceLocation:	/Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(15 - Value).DisplayNameMap
+#: /Game/OtherObjects/GoodSky/Source/Data/Enum/Enum_GoodSky_Preset.Enum_GoodSky_Preset.DisplayNameMap(15 - Value).DisplayNameMap
+msgctxt ",FB4CCABE410724A50A2EC29831EA8CC5"
+msgid "SunRise ( From Time Of Day : 6 )"
+msgstr "SunRise ( From Time Of Day : 6 )"
+
